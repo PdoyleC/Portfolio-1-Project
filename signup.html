@@ -34,7 +34,7 @@
                     <a href="#">Lessons</a>
                 </li>
                 <li>
-                    <a href="#">Home</a>
+                    <a href="index.html">Home</a>
                 </li>
             </ul>
         </nav>
@@ -55,19 +55,25 @@
 
             <h3>What is your skill level?</h3>
             <input type="radio" id="four-to-nine" name="child_age" value="four-to-nine" required>
-            <label for="four-to-nine">4-9 years old</label>
+            <label for="four-to-nine">Beginner</label>
             <br>
             <input type="radio" id="ten-to-fourteen" name="child_age" value="ten-to-fourteen" required>
-            <label for="ten-to-fourteen">10-14 years old</label>
+            <label for="ten-to-fourteen">Intermediate</label>
+            <br>
+            <input type="radio" id="ten-to-fourteen" name="child_age" value="ten-to-fourteen" required>
+            <label for="ten-to-fourteen">Advanced</label>
+            <br>
+            <input type="radio" id="ten-to-fourteen" name="child_age" value="ten-to-fourteen" required>
+            <label for="ten-to-fourteen">Starting again</label>
 
-            <h3>What classes or events are you interested in?</h3>
+            <h3>What lessons or events are you interested in?</h3>
             <p>(select all that apply)</p>
 
-            <input type="checkbox" id="painting-checkbox" name="painting">
-            <label for="painting-checkbox">Painting</label>
+            <input type="checkbox" id="lessons-checkbox" name="lessons">
+            <label for="lessons-checkbox">Lessons</label>
             <br>
-            <input type="checkbox" id="crafts-checkbox" name="crafts">
-            <label for="crafts-checkbox">Crafts</label>
+            <input type="checkbox" id="events-checkbox" name="events">
+            <label for="events-checkbox">Events</label>
             <br>
             <input type="checkbox" id="birthday-checkbox" name="birthday">
             <label for="birthday-checkbox">Birthday Party</label>
@@ -83,11 +89,37 @@
             </button>
         </form>
     </section>
+    <!-- right side of main body on contact us page with a iframe of googlemaps location in Cork, Ireland -->
+    <div class="right-side">
+        <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2934.0281155080525!2d-8.298062515815447!3d51.80225531500432!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48448197714a8147%3A0xc9841a0072258c1!2sPoint%20Road%20Car%20Park(Carrchl%C3%B3s%20Bh%C3%B3thar%20an%20Phointe)!5e0!3m2!1sen!2sie!4v1682694945602!5m2!1sen!2sie"
+            width="500" height="350" style="border:0;" allowfullscreen="" loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <br>
+        <!-- email link of the business opens visitor's email, incase they don't want to use the form -->
+        <p id="contact-details">
+        <p>
+            <a href=mailto:"info@chessclub.ie" class="email.link">info@chessclub.ie</a>
+            <br>
+            021-123456
+        </p>
+        <br>
+        <p>
+            Our Address:
+            <br>
+            Old House,
+            <br>
+            Main Street,
+            <br>
+            County Cork,
+            <br>
+            RP24+V2
+        </p>
+        </p>
+    </div>
     <!-- Footer -->
     <footer>
-        <div id="address">
-            <p>Creative Spaces<br>Am Markt 8<br>23909 Ratzeburg<br>Phone: 01520 347 1327</p>
-        </div>
+
         <ul class="social-networks">
             <li>
                 <a href="https://facebook.com" target="_blank" rel="noopener"
@@ -108,12 +140,13 @@
                 </a>
             </li>
             <li>
-                <a href="https://instagram.com" target="_blank" rel="noopener"
+                <a href="https://www.instagram.com/wwwchesscom/" target="_blank" rel="noopener"
                     aria-label="Visit our Instagram page (opens in a new tab)">
                     <i class="fa-brands fa-square-instagram"></i>
                 </a>
             </li>
         </ul>
+
     </footer>
     <!-- font awesome script -->
     <script src="https://kit.fontawesome.com/3e15c9c764.js" crossorigin="anonymous"></script>
