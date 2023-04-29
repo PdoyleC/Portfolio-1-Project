@@ -1,7 +1,12 @@
 #logo {
     float: left;
     font-size: 280%;
+    color: #000000;
 }
+/* body {
+    background-color: #747575;
+    position: relative;
+} */
 
 /* navigation links */
 
@@ -76,14 +81,14 @@
     background: transparent;
     height: 25px;
     width: 90%;
-    border: 2px solid hsl(234, 70%, 31%);
+    border: 2px solid hsl(0, 0%, 0%);
     border-radius: 4px;
 }
 
 #message {
     margin: 10px 0 20px 0;
     width: 100%;
-    border: 2px solid hsl(234, 70%, 31%);
+    border: 2px solid hsl(0, 0%, 0%);
     border-radius: 4px;
 }
 
@@ -119,9 +124,10 @@
 /*Googlemaps*/
 .right-side  {
      position: absolute;
-     top: 500px;
-     right: 250px;
+     top: 10px;
+     right: 150px;
      font-size: 18px;
+     
  }
 
 #map {
