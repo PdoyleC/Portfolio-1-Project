@@ -42,12 +42,12 @@
 
 /* chess-photo-pawn */
 
-#chess-photo-pawn {
+#chess-hero {
     height: 600px;
     width: 100%;
     overflow: hidden;
     position: relative;
-    background: url('../images/chess-photo-pawn.webp') no-repeat center center;
+    background: url('../images/chess-photo-pawn.jpg') no-repeat center center;
 }
 
 /* Lessons page */
