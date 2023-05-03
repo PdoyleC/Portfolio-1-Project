@@ -4,10 +4,11 @@
     color: #000000;
 }
 
-/* body {
-    background-color: #747575;
-    position: relative;
-} */
+body {
+    margin: 0;
+    padding: 0;
+    background: #fffee2;
+}
 
 /* navigation links */
 
@@ -185,55 +186,57 @@ footer {
 We have added the border property to demonstrate that the flip itself 
 goes out of the box on hover 
 (remove perspective if you don't want the 3D effect
-https: //webtips.dev/flip-images-with-css */
+https: //webtips.dev/flip-images-with-css https: //www.youtube.com/watch?v=6LCAtblpPus&t=108s*/
 
-.photo-flip {
+
+
+.box {
     position: absolute;
     top: 50%;
     left: 50%;
+    transform: translate(-50%, -50%);
     width: 300px;
     height: 300px;
-    cursor: pointer;
-    transform: translate(-50%, -50%);
 }
 
-.photo-front,
-.photo-back {
-    position: absolute;
+.box img {
+    width: 100%;
+}
+
+.box .front,
+.box .back {
     width: 100%;
     height: 100%;
-    transition: transform .6s cubic-bezier(0.4, 0.0, 0.2, 1);
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: 2s;
     backface-visibility: hidden;
-    border: 5px solid#fff;
+    border: 5px solid #ffffff;
     border-radius: 5px;
-    box-shadow: 0 5px 10px rgb(0, 0, 0, .5);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5);
 }
 
-.photo-back {
-    transform: rotateY(180deg);
+.box .front {
+    transform: perspective(1000px) rotate(0deg);
+    z-index: 2;
+
 }
 
-.photo-flip:hover .photo-front {
-    transform: rotateY(180deg);
+.box .back {
+    transform: perspective(1000px) rotate(180deg);
+    z-index: 1;
+
 }
 
-.photo-flip:hover .photo-back {
-    transform: rotateY(0);
+.box:hover .front {
+    transform: perspective(1000px) rotate(-180deg);
+    z-index: 2;
+
 }
 
-.photo-back {
-    transform: rotateY(180deg);
-    transform: rotateY(180deg) rotateZ(50deg);
+.box:hover .back {
+    transform: perspective(1000px) rotate(0deg);
+    z-index: 1;
+
 }
-
-.photo-flip:hover .photo-front {
-    transform: rotateY(180deg);
-    transform: rotateY(180deg) rotateZ(50deg);
-}
-
-.photo-flip:hover .photo-back {
-    transform: rotateY(0);
-    transform: rotateY(0) rotateZ(0);
-}
-
-
