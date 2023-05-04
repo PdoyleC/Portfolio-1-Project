@@ -145,6 +145,21 @@ body {
 }
 
 
+
+/* Gallery Page */
+#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 3;
+    column-gap: 0;
+}
+
+#photos>img {
+    width: 100%;
+}
+
+
+
 /* Sign up page styling */
 .sign-up-form h3 {
     margin: 10px 0 5px 0;
