@@ -7,7 +7,7 @@
 body {
     margin: 0;
     padding: 0;
-    background: #fffee2;
+    background: #000000;
 }
 
 /* navigation links */
@@ -119,6 +119,11 @@ body {
 
 
 
+
+
+
+
+
 /* chess-photo-pawn */
 
 #chess-hero {
@@ -130,22 +135,13 @@ body {
 }
 
 /* Lessons page */
-.moving-piece {
-    padding: 50;
-    width: 400px;
-    height: 400px;
-    border-radius: 15px;
+
+#chess-lessons {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
     position: relative;
-    top: 150px;
-    left: 20px;
-}
-
-#rook {
-    background: url('../images/Rook-only45.jpg') no-repeat center center;
-}
-
-#bishop {
-    background: url('../images/bishop-only45.jpg') no-repeat center center;
+    background: url('../images/playing-chess60.jpg') no-repeat center center;
 }
 
 
