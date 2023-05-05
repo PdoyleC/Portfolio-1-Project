@@ -91,6 +91,14 @@ body {
 }
 
 /* event times */
+#class-times {
+    color: #fafafa;
+}
+
+
+
+
+/* event times */
 
 #times {
     background-image: url('../images/times-background.webp');
