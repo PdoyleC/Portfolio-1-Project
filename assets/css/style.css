@@ -236,25 +236,7 @@ body {
 
 }
 
-.flip-card-back h2 {
-    padding-top: 1.875rem;
-}
 
-#flip-card-back-1 {
-    background-color: var(--palepink);
-}
-
-#flip-card-back-2 {
-    background-color: var(--paleorange);
-}
-
-#flip-card-back-3 {
-    background-color: var(--palegreen);
-}
-
-#flip-card-back-4 {
-    background-color: var(--paleblue);
-}
 
 
 
