@@ -138,8 +138,17 @@ body {
     background: url('../images/chess-hero.jpg') no-repeat center center;
 }
 
+#chess-hero1 {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    background: url('../images/puz-hero60ed.jpg') no-repeat center center;
+}
+
 /* Puzzle page */
 /* flex-box structure to handle flip-cards positioning */
+/* https: //www.w3schools.com/howto/tryit.asp?filename=tryhow_css_flip_card */
 #tagline {
     text-align: left;
     margin: 0;
