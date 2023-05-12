@@ -128,7 +128,7 @@ body {
 .section-heading {
     text-align: center;
     margin: 20px 0;
-    font-size: 200%;
+    font-size: 250%;
 }
 
 #class-times {
@@ -172,8 +172,10 @@ body {
     margin: 20px;
 }
 
+
+/* Fade in Section */
 .fade-in {
-    animation: fadeIn 20s;
+    animation: fadeIn 10s;
 }
 
 @keyframes fadeIn {
@@ -217,6 +219,12 @@ body {
     font-size: 280%;
     text-transform: uppercase;
     line-height: 1;
+}
+
+.benefits-heading {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 100%;
 }
 
 .level1-ideals-container {
