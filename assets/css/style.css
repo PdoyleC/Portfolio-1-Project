@@ -77,7 +77,6 @@ body {
 
 .text {
     padding-top: 2%;
-
     display: flex;
     justify-content: space-evenly;
     font-size: 120%;
@@ -89,12 +88,10 @@ body {
     position: relative;
 }
 
-.home-page1 {
+.home-page {
     display: grid;
     grid-template-rows: 1fr 80%;
-    grid-template-areas:
-        "para1 pic1"
-        "para2 pic2";
+    grid-template-areas: "para1 para2";
     gap: 10% 10%;
     max-width: 100%;
     height: auto;
@@ -112,12 +109,6 @@ body {
     border-bottom: 1px solid #3a3a3a;
 }
 
-/* Class times */
-#class-times {
-    color: #fafafa;
-}
-
-
 
 
 /* Class times */
@@ -131,20 +122,68 @@ body {
     overflow: hidden;
 }
 
-#times div {
-    color: #fafafa;
-    background-color: rgba(0, 0, 0, .6);
-    width: 25%;
-    height: 380px;
-    float: left;
-    padding: 30px 0 0 10px;
+
+
+/* Class Times Section */
+.section-heading {
     text-align: center;
-    border: 2px solid white;
-    box-sizing: border-box;
+    margin: 20px 0;
+    font-size: 200%;
 }
 
-#times h2 {
-    color: #fafafa;
+#class-times {
+    clear: both;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+#class-times div {
+    margin: 10px;
+    background-color: rgb(108, 177, 94);
+    width: 400px;
+    height: 380px;
+    padding: 20px 0;
+    text-align: center;
+    border: 5px solid hsl(0, 0%, 0%);
+    border-radius: 20px;
+    color: #000000;
+}
+
+#class-times h2 {
+    font-size: x-large;
+    margin: 10px 5px;
+}
+
+#class-times h3 {
+    font-size: medium;
+    margin: 10px auto;
+}
+
+#class-times hr {
+    border-top: 2px solid hsl(0, 0%, 0%);
+    width: 80%;
+    margin: 5px auto;
+}
+
+#class-times a {
+    display: inline-block;
+    margin: 20px;
+}
+
+.fade-in {
+    animation: fadeIn 20s;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
 }
 
 
