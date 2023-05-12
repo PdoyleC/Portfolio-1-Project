@@ -1,23 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital@1&family=Inconsolata:wght@700&family=Lato:ital,wght@1,300&display=swap');
+
+
 #logo {
     float: left;
     font-size: 280%;
-    color: #000000;
-    <style>@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&display=swap');
-    </style>
+    color: #eeeded;
 }
 
-#logo1 {
+#logob {
     float: left;
     font-size: 280%;
     color: #fcfcfc;
-    <style>@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&display=swap');
-    </style>
 }
 
 body {
     margin: 0;
     padding: 0;
     background: #ffffff;
+    font-family: Arvo, sans-serif;
+    font-weight: 300;
 }
 
 /* navigation links */
@@ -359,7 +360,7 @@ body {
 
 /*Googlemaps*/
 .right-panel {
-    position: absolute;
+    position: relative;
     top: 10px;
     right: 150px;
     font-size: 18px;
@@ -367,8 +368,8 @@ body {
 }
 
 #map {
-    width: 70%;
-    height: 70%;
+    width: 10%;
+    height: 10%;
 }
 
 
