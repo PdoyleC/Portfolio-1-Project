@@ -261,10 +261,11 @@ body {
 
 .flip-card-back p {
     text-align: left;
-    font-size: large;
+    font-size: medium;
     font-weight: bolder;
     padding: 1.25rem 3.125rem;
     border: 2px solid hsl(0, 0%, 0%);
+    background-color: rgb(108, 177, 94);
 
 }
 
@@ -360,8 +361,8 @@ body {
 
 /*Googlemaps*/
 .right-panel {
-    position: relative;
-    top: 10px;
+    position: absolute;
+    top: 790px;
     right: 150px;
     font-size: 18px;
 
