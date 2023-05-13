@@ -7,6 +7,12 @@
     color: #eeeded;
 }
 
+#logothankyou {
+    float: left;
+    font-size: 280%;
+    color: #000000;
+}
+
 #logob {
     float: left;
     font-size: 280%;
@@ -421,6 +427,15 @@ body {
     height: 10%;
 }
 
+
+/* thank you redirect page */
+#thankyou {
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 120px;
+    color: rgb(0, 0, 0);
+    line-height: 1.5;
+}
 
 
 
