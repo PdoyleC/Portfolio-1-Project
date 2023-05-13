@@ -80,15 +80,20 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
 
 - __F07 Contact Page - 'Contact Us'__
 
-    - The 'Contact Us' panel of the Contact page allows the user to send a message/give feedback to the company and if they want, sign up to the company mailing list to get discount codes and offers.  The user is asked to provide their name and email address when sending a message. By default, the option to join the mailing list is set to 'no' - to prevent them accidentally signing up for the mailing list and getting unwanted email. Sending the message will result in a new tab showing the results (at the moment the user is simply shown the formdump.codeinstitute.net page with the data they submitted displayed)
+    - The 'Contact Us' panel of the Contact page allows the user to send a message/give feedback to the company and if they want, sign up to the company mailing list to get discount codes and offers.  The user is asked to provide their name and email address when sending a message. By default, the option to join the mailing list is set to 'no' - to prevent them accidentally signing up for the mailing list and getting unwanted email. Sending the message will result in being directed to a page saying that someone will be in contact soon and you will be redirected back to the home page.
 
+![Contact](documentation/contact-page.jpg)
+    - The 'Contact Us' page was tested with the "formdump.codeinstitute.net" page with the data they submitted displayed
+![Contact](documentation/CI-test-page.jpg)
+    - The 'Contact Us' now sends the user to a page saying that someone will be in contact soon and you will be redirected back to the home page.
+![Contact](documentation/redirection-page.jpg)
 
 
 - __F08 Contact Page - 'How to Find Us'__
 
     - The 'How to Find Us' panel of the Contact page gives the user an interactive google map showing the location of the company along with details on full address, phone number and administration email address in large font to make it easily readable.  By clicking the 'View larger map' link the user can go to the google maps site for the address - this opens in a separate tab to allow ease of navigation.
 
-      ![Find Us](documentation/supp-images/f08-find-us.png)
+      ![Find Us](documentation/find-us.jpg)
 
 
 - __How these features support the User Stories__
