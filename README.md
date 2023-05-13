@@ -14,6 +14,8 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
   - [Existing Features](#existing-features)
   - [Features which could be implemented in the future](#features-which-could-be-implemented-in-the-future)
 - [Design](#design)
+  - [Colour Scheme](#colour-scheme)
+  - [Fonts](#fonts)
 
 ## User Experience (UX)
 
@@ -32,9 +34,9 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
 
     -   #### B. Returning Visitor Goals
 
-        - I want to be able to access and view a updated weekly puzzle section.
-        - I want to be able to check opening times quickly and easily.
-        - I want to be able to contact the organisation to give feedback or ask questions.
+        - I want visitors to be able to access and view a updated weekly puzzle section.
+        - I want visitors to be able to check opening times quickly and easily.
+    - I want visitorsto be able to contact the organisation to give feedback or ask questions.
 
     -   #### C. Frequent User Goals
          - I want to be able to access and view a updated weekly puzzle section.
@@ -54,7 +56,7 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
 
 -   __F02 Hero image__
 
-    - The landing area includes a photograph of chess piece's in black and white to capture the black and white piece's that are used in chess.
+- The landing area includes a photograph of chess piece's in black and white to capture the black and white piece's that are used in chess, black and white will be used as a colour through the site to represent this, Green is also used as this is a popular colour for online chess. 
     - 
 
 - __F03 Company Ideals section__
@@ -105,3 +107,13 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
     - A hamburger menu could be implemented to save space on smaller screens.
 
 ## Design
+
+### Colour Scheme
+[Colormind.io](http://colormind.io/) was used to generate the colorscheme for this website.
+ ![Navbar](documentation/color-pal.jpg)
+
+ ### Fonts
+The fonts chosen for the website were Anton for headings and Commissioner for the main bodies of text on the website. Each of these were imported using [Google Fonts](https://fonts.google.com/). Sans-serif was chosen as the back-up font - in case these fonts don't load - because of it's clear readability. Font Arvo was used. 
+ 
+       ![Navbar](documentation/Arvo-font.jpg)
+
