@@ -57,25 +57,23 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
 -   __F02 Hero image__
 
 - The landing area includes a photograph of chess piece's in black and white to capture the black and white piece's that are used in chess, black and white will be used as a colour through the site to represent this, Green is also used as this is a popular colour for online chess. 
-    - 
+      ![Hero Image](documentation/hero-image.jpg)
 
 - __F03 Company Ideals section__
 
     - The Chess Society opening times and what lesson are on are displayed cards on the main page.  These cards give the user more information about when specific classes are on and with open play all level are welcome.
     
-      ![Company Ideals](documentation/supp-images/f04-company-ideals.png)
+      
 
 - __F04 Footer__
 
-    - The footer is featured on all three pages and is identical on each page making it easy to use.  It contains three sections :
+    - The footer is featured on all pages and is identical on each page making it easy to use.
 
-        - Opening Times - having the opening times in the footer on each page allows the user to quickly and easily find this information, this is important for this type of business as it is information that the user needs in order to make use of the company (product is sold offline).
+        - Opening Times - having the opening times in the footer of the home page give easy access to see when classes are and when the area is available for games.
 
-        - Address - similar to the opening times, the address of this type of business is important to the user in order for them to use the company and so has been repeated on each page in the footer to allow the user to quickly and easily find out where the company is located 
+        - Stay in Touch - this area has links to social media sites associated with the organisation encouraging the user to keep connected.  The links will open in a new tab to allow easy navigation for the user. The organisation can use these sites to promote brand awareness and keep customers interested through updates, offers, chats and other marketing efforts. (As the Chess Society is a ficticious club, the links currently just go to the social media main websites.)
 
-        - Stay in Touch - this area has links to social media sites associated with the organisation encouraging the user to keep connected.  The links will open in a new tab to allow easy navigation for the user. The organisation can use these sites to promote brand awareness and keep customers interested through updates, offers, chats and other marketing efforts. (As THRIVE is a ficticious company, the links currently just go to the social media main websites.)
-
-      ![Footer](documentation/supp-images/f05-footer.png)
+      
 
 
 - __F07 Contact Page - 'Contact Us'__
@@ -120,5 +118,5 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
  ### Fonts
 The fonts chosen for the website were Anton for headings and Commissioner for the main bodies of text on the website. Each of these were imported using [Google Fonts](https://fonts.google.com/). Sans-serif was chosen as the back-up font - in case these fonts don't load - because of it's clear readability. Font Arvo was used. 
  
-       ![Navbar](documentation/Arvo-font.jpg)
+![Navbar](documentation/Arvo-font.jpg)
 
