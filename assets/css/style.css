@@ -5,6 +5,7 @@
     float: left;
     font-size: 280%;
     color: #eeeded;
+    margin-left: 30px;
 }
 
 #logothankyou {
@@ -25,6 +26,8 @@ body {
     background: #ffffff;
     font-family: Arvo, sans-serif;
     font-weight: 300;
+    max-width: 2000px;
+    margin: 0 auto;
 }
 
 /* navigation links */
