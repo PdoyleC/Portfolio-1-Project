@@ -66,16 +66,18 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
 
 - __Footer__
 
-  * The footer is featured on all pages and is identical on each page making it easy to use.
+  - The footer section includes links to the relevant social media sites for the Movie Theater. The links will open to a new tab to allow easy navigation for the user.
 
-    * Opening Times - having the opening times in the footer of the home page give easy access to see when classes are and when the area is available for games.
+    - The footer is valuable to the user as it encourages them to keep connected via social media.
 
-    * Stay in Touch - this area has links to social media sites associated with the organisation encouraging the user to keep connected.  The links will open in a new tab to allow easy navigation for the user. The organisation can use these sites to promote brand awareness and keep customers interested through updates, offers, chats and other marketing efforts. (As the Chess Society is a ficticious club, the links currently just go to the social media main websites.)
+    
 
 - __Puzzle Page__
   * There is a benifits section to let the user know about how puzzle can improve your game.
-  * The puzzle page is there for club members to test themselves on a weekly basis with new chess problems. 
+  * The puzzle page is there for club members to test themselves on a weekly basis with new chess problems.
   * This page will attract users to come back to the site to check for new problems.
+  * There is 4 problems, Beginner - Intermediate - Advanced - GrandMaster, for different user levels.
+  * Advanced and GrandMaster puzzles images, don't have the square identifiers around the edge, as it'll challenge advanced users to learn the layout of a board.
 
       ![Hero Image](documentation/puzzle.jpg)
 
