@@ -12,6 +12,10 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
   * [Navigation Bar](#navigation-bar)
   * [Logo](#logo)
   * [Hero Image](#hero-image)
+  * [Class Timetable](#class-timetable)
+  * [Footer](#footer)
+  * [Puzzle Page](#puzzle-page)
+  * [Contact Page](#Contact-page)
 
 
 ## Project Goals
@@ -52,7 +56,7 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
 * The landing area includes a photograph of chess piece's in black and white to capture the black and white piece's that are used in chess, black and white will be used as a colour through the site to represent this, Green is also used as this is a popular colour for online chess.
       ![Hero Image](documentation/hero-image.jpg)
 
-- __Company Ideals section__
+- __Class Timetable__
 
   * The Chess Society opening times and what lesson are on are displayed cards on the main page.  These cards give the user more information about when specific classes are on and with open play all level are welcome.
 
@@ -64,7 +68,10 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
 
     * Stay in Touch - this area has links to social media sites associated with the organisation encouraging the user to keep connected.  The links will open in a new tab to allow easy navigation for the user. The organisation can use these sites to promote brand awareness and keep customers interested through updates, offers, chats and other marketing efforts. (As the Chess Society is a ficticious club, the links currently just go to the social media main websites.)
 
-- __Contact Page - 'Contact Us'__
+- __Puzzle Page__
+
+
+- __Contact Page__
 
   * The 'Contact Us' panel of the Contact page allows the user to send a message/give feedback to the company and if they want, sign up to the company mailing list to get discount codes and offers.  The user is asked to provide their name and email address when sending a message. By default, the option to join the mailing list is set to 'no' - to prevent them accidentally signing up for the mailing list and getting unwanted email. Sending the message will result in being directed to a page saying that someone will be in contact soon and you will be redirected back to the home page.
 
@@ -103,6 +110,8 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
 
 
 ### Future changes
+* Add images to the back of the flip cards, and have a photo of the solution instead of text. 
+* Add animations for how chess pieces move on a board. 
 
 
 ## Credits
