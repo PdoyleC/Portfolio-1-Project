@@ -6,24 +6,55 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
 
 ![Mockup](doc)
 
+
+* [Features](#features)
+  * [Project Goals](#project-goals)
+  * [Navigation bar](#navigation-bar)
+  * [Logo](#logo)
+
+
+## Project Goals
+
+### ...For the user
+
+* To find out where the chess club is located.
+* To easily navigate the site.
+* To easily see when classes are and when open games are played.
+* To have an enjoyable experience using their site.
+* To have something to revisit the site for.
+* An easy way to contact the club.
+
+### ...For the club owner
+
+* To show when classes and games are on.
+* To get users to revisit the site for new puzzles.
+
+
 ### Existing Features
 
-- __F01 Navigation Bar__
+- __Navigation Bar__
 
-  - The navigation bar has a consistent look and placement on all four pages of the website supporting easy navigation.  It includes a simple Logo, Home page, Puzzle, Gallery and Contact links and is responsive on multiple screen sizes.
+  * The navigation bar has a consistent look and placement on all three pages of the website supporting easy navigation.  It includes a simple Logo, Home page, Puzzle, and Contact links and is responsive on multiple screen sizes.
+  * The navigation bar was designed to make it easy to read and with contrasting colors that are easy to read.
+  * This section will allow the user to navigate from page to page without having to revert back to the previous page via the ‘back’ button.
+
 
       ![Navbar](documentation/nav-bar.jpg)
 
-- __F02 Hero image__
+- __Logo__
+
+  * The Logo at the top left corner is clickable, and it redirects the user to the Home page once it is clicked.
+  
+- __Hero image__
 
 - The landing area includes a photograph of chess piece's in black and white to capture the black and white piece's that are used in chess, black and white will be used as a colour through the site to represent this, Green is also used as this is a popular colour for online chess.
       ![Hero Image](documentation/hero-image.jpg)
 
-- __F03 Company Ideals section__
+- __Company Ideals section__
 
   - The Chess Society opening times and what lesson are on are displayed cards on the main page.  These cards give the user more information about when specific classes are on and with open play all level are welcome.
 
-- __F04 Footer__
+- __Footer__
 
   - The footer is featured on all pages and is identical on each page making it easy to use.
 
@@ -31,7 +62,7 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
 
     - Stay in Touch - this area has links to social media sites associated with the organisation encouraging the user to keep connected.  The links will open in a new tab to allow easy navigation for the user. The organisation can use these sites to promote brand awareness and keep customers interested through updates, offers, chats and other marketing efforts. (As the Chess Society is a ficticious club, the links currently just go to the social media main websites.)
 
-- __F07 Contact Page - 'Contact Us'__
+- __Contact Page - 'Contact Us'__
 
   - The 'Contact Us' panel of the Contact page allows the user to send a message/give feedback to the company and if they want, sign up to the company mailing list to get discount codes and offers.  The user is asked to provide their name and email address when sending a message. By default, the option to join the mailing list is set to 'no' - to prevent them accidentally signing up for the mailing list and getting unwanted email. Sending the message will result in being directed to a page saying that someone will be in contact soon and you will be redirected back to the home page.
 
@@ -45,7 +76,7 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
   
 ![Contact](documentation/redirection-page.jpg)
 
-- __F08 Contact Page - 'How to Find Us'__
+- __Contact Page - 'How to Find Us'__
 
   - The 'How to Find Us' panel of the Contact page gives the user an interactive google map showing the location of the company along with details on full address, phone number and administration email address in large font to make it easily readable.  By clicking the 'View larger map' link the user can go to the google maps site for the address - this opens in a separate tab to allow ease of navigation.
 
@@ -77,8 +108,8 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
 
 ### Code
 
-- Code on how to do the fade-in of the hero image came from information on this page : [CSS Image fade-in tutorial](https://blog.hubspot.com/website/css-fade-in)
-- Code on how to do the flip-card effect on the Home page was based on example code on : [W3Schools Flip card tutorial](https://www.w3schools.com/howto/howto_css_flip_card.asp)
+- Code on how to create the fade-in of the Crosshaven Chess Society and menu bar came from information on this page : [CSS Image fade-in tutorial](https://blog.hubspot.com/website/css-fade-in)
+- Code on how to create the flip-card effect on the Home page was based on example code on : [W3Schools Flip card tutorial](https://www.w3schools.com/howto/howto_css_flip_card.asp)
 - Code on how to include google map with marker was based on code from this site :  [How to embed Google Map](https://www.maps.ie/create-google-map/)
 - Code on how to implement flex boxes was based on instructions from [YouTube Flexbox Tutorial](https://www.youtube.com/watch?v=S0a7PEOi0do)
 
