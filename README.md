@@ -7,15 +7,19 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
 ![Mockup](doc)
 
 
-* [Features](#features)
-  * [Project Goals](#project-goals)
-  * [Navigation Bar](#navigation-bar)
-  * [Logo](#logo)
-  * [Hero Image](#hero-image)
-  * [Class Timetable](#class-timetable)
-  * [Footer](#footer)
-  * [Puzzle Page](#puzzle-page)
-  * [Contact Page](#Contact-page)
+- [Project Goals](#project-goals)
+  - [...For the user](#for-the-user)
+  - [...For the club owner](#for-the-club-owner)
+  - [Features](#features)
+- [Design](#design)
+  - [Colour Scheme](#colour-scheme)
+  - [Fonts](#fonts)
+  - [Future changes](#future-changes)
+- [Credits](#credits)
+  - [Content](#content)
+  - [Code](#code)
+  - [Media](#media)
+  - [Acknowledgments](#acknowledgments)
 
 
 ## Project Goals
@@ -69,11 +73,16 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
     * Stay in Touch - this area has links to social media sites associated with the organisation encouraging the user to keep connected.  The links will open in a new tab to allow easy navigation for the user. The organisation can use these sites to promote brand awareness and keep customers interested through updates, offers, chats and other marketing efforts. (As the Chess Society is a ficticious club, the links currently just go to the social media main websites.)
 
 - __Puzzle Page__
+  * There is a benifits section to let the user know about how puzzle can improve your game.
+  * The puzzle page is there for club members to test themselves on a weekly basis with new chess problems. 
+  * This page will attract users to come back to the site to check for new problems.
+
+      ![Hero Image](documentation/puzzle.jpg)
 
 
 - __Contact Page__
 
-  * The 'Contact Us' panel of the Contact page allows the user to send a message/give feedback to the company and if they want, sign up to the company mailing list to get discount codes and offers.  The user is asked to provide their name and email address when sending a message. By default, the option to join the mailing list is set to 'no' - to prevent them accidentally signing up for the mailing list and getting unwanted email. Sending the message will result in being directed to a page saying that someone will be in contact soon and you will be redirected back to the home page.
+  * The Contact Us panel of the Contact page allows the user to send a message/give feedback to the company and if they want, sign up to the company mailing list to get discount codes and offers.  The user is asked to provide their name and email address when sending a message. By default, the option to join the mailing list is set to 'no' - to prevent them accidentally signing up for the mailing list and getting unwanted email. Sending the message will result in being directed to a page saying that someone will be in contact soon and you will be redirected back to the home page.
 
 ![Contact](documentation/contact-page.jpg)
 
@@ -85,14 +94,11 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
   
 ![Contact](documentation/redirection-page.jpg)
 
-- __Contact Page - 'How to Find Us'__
+- __Contact Page__
 
-  * The 'How to Find Us' panel of the Contact page gives the user an interactive google map showing the location of the company along with details on full address, phone number and administration email address in large font to make it easily readable.  By clicking the 'View larger map' link the user can go to the google maps site for the address - this opens in a separate tab to allow ease of navigation.
+  * The How to Find Us panel of the Contact page gives the user an interactive google map showing the location of the company along with details on full address, phone number and administration email address in large font to make it easily readable.  By clicking the 'View larger map' link the user can go to the google maps site for the address - this opens in a separate tab to allow ease of navigation.
 
       ![Find Us](documentation/find-us.jpg)
-
-### Features which could be implemented in the future
-
 
 
 ## Design
