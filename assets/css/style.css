@@ -350,13 +350,13 @@ body {
 }
 
 .form-section {
-    clear: both;
     max-width: 800px;
     width: 100%;
+    display: flex;
+    margin: auto;
 }
 
 .sign-up-form {
-    margin: 150px 10% 0 10%;
     color: #3a3a3a;
     background-color: #fafafa;
     padding: 30px;
@@ -418,16 +418,18 @@ body {
 
 /*Googlemaps*/
 .right-panel {
-    position: absolute;
-    top: 790px;
-    right: 150px;
-    font-size: 18px;
+     font-size: 18px;
 
 }
 
 #map {
     width: 10%;
     height: 10%;
+}
+
+iframe { 
+    width: 100%;
+
 }
 
 

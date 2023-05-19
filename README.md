@@ -37,10 +37,10 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
 
 * To show when classes and games are on.
 * To get users to revisit the site for new puzzles.
-* To be contactable for new members. 
+* To be contactable for new members.
 
 
-### Features
+## Features
 
 - __Navigation Bar__
 
@@ -52,12 +52,12 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
       ![Navbar](documentation/nav-bar.jpg)
 
 - __Logo__
-
+  
   * The Logo at the top left corner is clickable, and it redirects the user to the Home page once it is clicked.
   
 - __Hero Image__
 
-* The landing area includes a photograph of chess piece's in black and white to capture the black and white piece's that are used in chess, black and white will be used as a colour through the site to represent this, Green is also used as this is a popular colour for online chess.
+  * The landing area includes a photograph of chess piece's in black and white to capture the black and white piece's that are used in chess, black and white will be used as a colour through the site to represent this, Green is also used as this is a popular colour for online chess.
       ![Hero Image](documentation/hero-image.jpg)
 
 - __Class Timetable__
