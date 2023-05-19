@@ -44,9 +44,18 @@
             <br><br>
         </div>
     </section>
-        
-    <section class="form-section">
-        <form class="sign-up-form" action="thankyou.html" method="get">
+
+
+
+
+
+
+
+
+    <section id="contact-section">
+        <div id="contact-panel-container">
+            <div class="contact-panel" id="contact-panel-left">
+        <form  action="thankyou.html" method="get">
             <h2>Submit your skill level for classes or ask a question! <i class="fa-regular fa-envelope"></i></h2>
             <label for="fname">First Name</label>
             <input id="fname" class="text-input" name="first_name" type="text" required>
@@ -83,12 +92,12 @@
             </button>
 
         </form>
-    
-    <!-- right side of main body on contact us page with a iframe of googlemaps location in Cork, Ireland -->
-    <div class="right-panel sign-up-form">
-        <h2>How to find us</h2>
-        <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2934.0281155080525!2d-8.298062515815447!3d51.80225531500432!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48448197714a8147%3A0xc9841a0072258c1!2sPoint%20Road%20Car%20Park(Carrchl%C3%B3s%20Bh%C3%B3thar%20an%20Phointe)!5e0!3m2!1sen!2sie!4v1682694945602!5m2!1sen!2sie"
+            </div>
+            <div class="contact-panel" id="contact-panel-right">
+                <h2>How to find us</h2>
+                <div id="location-map">
+                    <iframe id="location-iframe"
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2934.0281155080525!2d-8.298062515815447!3d51.80225531500432!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48448197714a8147%3A0xc9841a0072258c1!2sPoint%20Road%20Car%20Park(Carrchl%C3%B3s%20Bh%C3%B3thar%20an%20Phointe)!5e0!3m2!1sen!2sie!4v1682694945602!5m2!1sen!2sie"
             width="500" height="350" style="border:0;" allowfullscreen="" loading="lazy"
             referrerpolicy="no-referrer-when-downgrade"></iframe>
         <br>
@@ -116,6 +125,8 @@
         </p>
     </div>
     </section>
+
+
     <!-- Footer -->
     <footer>
 
