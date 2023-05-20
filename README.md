@@ -126,12 +126,14 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
 
 ### Content
 
-* Content for the pages were inspired by fellow Code Institute students from Ulrike Riemenschneider [link to site](https://uriem.github.io/art-school/index.html) for her classes timetable layout and Margarita B [link to site](https://uriem.github.io/art-school/index.html) for the Welcome and Chess Benifits sections. 
+* Content for the pages were inspired by fellow Code Institute students from Ulrike Riemenschneider [link to site](https://uriem.github.io/art-school/index.html) for her classes timetable layout and Margarita B [link to site](https://uriem.github.io/art-school/index.html) for the Welcome and Chess Benifits sections.
+* Contact page code was inspired by The Coders Coffeeshop page, Ulrike Riemenschneider and Elaine Roche (https://elainebroche-dev.github.io/ms1-thrive/contact.html)
 
 ### Code
 
 * Code on how to create the fade-in of the Crosshaven Chess Society and menu bar came from information on this page : [CSS Image fade-in tutorial](https://blog.hubspot.com/website/css-fade-in)
 * Code on how to create the flip-card effect on the Home page was based on example code on : [W3Schools Flip card tutorial](https://www.w3schools.com/howto/howto_css_flip_card.asp)
+* Contact page code was inspired by The Coders Coffeeshop page, 
 * code onhow to create a shadow around the submit button [How to create shadows](<https://www.w3schools.com/cssref/css3_pr_box-shadow.php>)
 * Code on how to include google map with marker was based on code from this site :  [How to embed Google Map](https://www.maps.ie/create-google-map/)
 * Code on how to implement flex boxes was based on instructions from [YouTube Flexbox Tutorial](https://www.youtube.com/watch?v=S0a7PEOi0do)
@@ -142,7 +144,7 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
 * The fonts used were imported from [Google Fonts](https://fonts.google.com/)
 
 * The hero image is a photo by Pat Eisenberge and is called The Pawn's Gambit, and was downloaded from [https://pixels.com/](https://pixels.com/featured/the-pawns-gambit-pat-eisenberger.html)
-- The thank you page image is a photo by Felix Mittermeier, and was downloaded from [https://pixabay.com/](https://pixabay.com/photos/chess-board-game-board-game-2730034/)
+* The thank you page image is a photo by Felix Mittermeier, and was downloaded from [https://pixabay.com/](https://pixabay.com/photos/chess-board-game-board-game-2730034/)
 * The chess puzzles are screen shot from chess.com  [https://www.chess.com/home](https://www.chess.com/puzzles/rated) and are generated on the site. 
 
 
