@@ -392,6 +392,16 @@ body {
     float: right;
 }
 
+
+
+#contact-details {
+    font-family: Arvo, sans-serif;
+    font-size: large;
+    text-align: left;
+
+}
+
+
 .text-input {
     margin: 10px 8% 20px 2%;
     background: transparent;

@@ -66,9 +66,9 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
 
 - __Footer__
 
-  - The footer section includes links to the relevant social media sites for the Movie Theater. The links will open to a new tab to allow easy navigation for the user.
+  * The footer section includes links to the relevant social media sites for the Movie Theater. The links will open to a new tab to allow easy navigation for the user.
+  * The footer is valuable to the user as it encourages them to keep connected via social media.
 
-    - The footer is valuable to the user as it encourages them to keep connected via social media.
 
     
 
