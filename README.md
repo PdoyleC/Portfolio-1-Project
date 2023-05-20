@@ -138,11 +138,12 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
 
 ### Media
 
-- The icons in the header, footer and on the back of the flip-cards were taken from [Font Awesome](https://fontawesome.com/)
-- The fonts used were imported from [Google Fonts](https://fonts.google.com/)
+* The icons in the header, footer and on the back of the flip-cards were taken from [Font Awesome](https://fontawesome.com/)
+* The fonts used were imported from [Google Fonts](https://fonts.google.com/)
 
-- The hero image is a photo by Pat Eisenberge and is called The Pawn's Gambit, and was downloaded from [https://pixels.com/](https://pixels.com/featured/the-pawns-gambit-pat-eisenberger.html)
-- The chess puzzles are screen shot from chess.com  [https://www.chess.com/home](https://www.chess.com/puzzles/rated) and are generated on the site. 
+* The hero image is a photo by Pat Eisenberge and is called The Pawn's Gambit, and was downloaded from [https://pixels.com/](https://pixels.com/featured/the-pawns-gambit-pat-eisenberger.html)
+* The thank you page image is a photo by Felix Mittermeier, and was downloaded from [https://pixabay.com/](https://pixabay.com/photos/chess-checkmate-chess-pieces-2928700/)
+* The chess puzzles are screen shot from chess.com  [https://www.chess.com/home](https://www.chess.com/puzzles/rated) and are generated on the site. 
 
 
 ### Acknowledgments
