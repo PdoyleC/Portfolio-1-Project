@@ -10,7 +10,7 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
 - [Project Goals](#project-goals)
   - [...For the user](#for-the-user)
   - [...For the club owner](#for-the-club-owner)
-  - [Features](#features)
+- [Features](#features)
 - [Design](#design)
   - [Colour Scheme](#colour-scheme)
   - [Fonts](#fonts)
@@ -90,7 +90,7 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
 
 * The 'Contact Us' page was tested with the "formdump.codeinstitute.net" page with the data they submitted displayed.
 
-![Contact](documentation/CI-test-page.png)
+![Contact](documentation/ci-test-page.png)
 
 * The 'Contact Us' now sends the user to a page saying that someone will be in contact soon and you will be redirected back to the home page.
   
@@ -114,7 +114,7 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
 
 The fonts chosen for the website were Anton for headings and Commissioner for the main bodies of text on the website. Each of these were imported using [Google Fonts](https://fonts.google.com/). Sans-serif was chosen as the back-up font - in case these fonts don't load - because of it's clear readability. Font Arvo was used.
 
-![Navbar](documentation/Arvo-font.jpg)
+![Navbar](documentation/arvo-font.jpg)
 
 
 ### Future changes
