@@ -511,35 +511,85 @@ footer {
     }
 }
 
-/* For very small screen sizes from 450px wide and down */
-@media screen and (max-width: 450px) {
+/* Responsiveness for medium screen sizes from 850px wide and down */
+@media screen and (max-width: 850px) {
 
-    #contact-panel-left,
-    #contact-panel-right {
-        width: 15.75rem;
-        height: 70.25rem;
-        padding: 2rem 1.5rem;
+
+
+    #logo {
+        float: left;
+        font-size: 250%;
+        font-weight: 500;
+        margin-left: 20px
     }
 
-    #cover-text {
-        padding: 2rem 0.625rem;
+    #menu {
+        clear: Right;
+        float: Right;
+        margin-Right: 20px;
+        margin-top: 10px;
+        margin-bottom: 20px;
+        line-height: 25px;
     }
 
-    #cover-text h3 {
-        font-size: 400%
+
+    /* For very small screen sizes from 450px wide and down */
+    @media screen and (max-width: 450px) {
+
+        #logo {
+            margin-left: 10px;
+            font-size: 150%;
+        }
+
+        #menu {
+            margin-left: 10px;
+            font-size: 90%;
+            letter-spacing: 1px;
+        }
+
+
+        #contact-panel-left,
+        #contact-panel-right {
+            width: 15.75rem;
+            height: 70.25rem;
+            padding: 2rem 1.5rem;
+        }
+
+        #cover-text {
+            padding: 2rem 0.625rem;
+        }
+
+        #cover-text h3 {
+            font-size: 400%
+        }
+
+        #social-networks {
+            width: 80%;
+        }
     }
 
-    #social-networks {
-        width: 80%;
-    }
-}
+    /* For very small screen sizes re-size the flip-cards */
+    @media screen and (max-width: 320px) {
 
-/* For very small screen sizes re-size the flip-cards */
-@media screen and (max-width: 320px) {
+        #logo {
+            margin-left: 10px;
+            font-size: 200%;
+        }
 
-    .flip-card,
-    .flip-card-front img {
-        width: 18.75rem;
-        height: 18.75rem;
+        #menu {
+            margin-left: 10px;
+            font-size: 70%;
+            letter-spacing: 1px;
+        }
+
+
+        .flip-card,
+        .flip-card-front img {
+            width: 18.75rem;
+            height: 18.75rem;
+        }
+
+        #social-networks {
+            width: 80%;
+        }
     }
-}
