@@ -211,13 +211,7 @@ body {
     background: url('../images/chess-hero.jpg') no-repeat center center;
 }
 
-#chess-hero1 {
-    height: 600px;
-    width: 100%;
-    overflow: hidden;
-    position: relative;
-    background: url('../images/puz-hero60ed.jpg') no-repeat center center;
-}
+
 
 #chess-thankyou {
     height: 600px;
@@ -531,65 +525,66 @@ footer {
         margin-bottom: 20px;
         line-height: 25px;
     }
+}
 
 
-    /* For very small screen sizes from 450px wide and down */
-    @media screen and (max-width: 450px) {
+/* For very small screen sizes from 450px wide and down */
+@media screen and (max-width: 450px) {
 
-        #logo {
-            margin-left: 10px;
-            font-size: 150%;
-        }
-
-        #menu {
-            margin-left: 10px;
-            font-size: 90%;
-            letter-spacing: 1px;
-        }
-
-
-        #contact-panel-left,
-        #contact-panel-right {
-            width: 15.75rem;
-            height: 70.25rem;
-            padding: 2rem 1.5rem;
-        }
-
-        #cover-text {
-            padding: 2rem 0.625rem;
-        }
-
-        #cover-text h3 {
-            font-size: 400%
-        }
-
-        #social-networks {
-            width: 80%;
-        }
+    #logo {
+        margin-left: 10px;
+        font-size: 150%;
     }
 
-    /* For very small screen sizes re-size the flip-cards */
-    @media screen and (max-width: 320px) {
-
-        #logo {
-            margin-left: 10px;
-            font-size: 200%;
-        }
-
-        #menu {
-            margin-left: 10px;
-            font-size: 70%;
-            letter-spacing: 1px;
-        }
-
-
-        .flip-card,
-        .flip-card-front img {
-            width: 18.75rem;
-            height: 18.75rem;
-        }
-
-        #social-networks {
-            width: 80%;
-        }
+    #menu {
+        margin-left: 10px;
+        font-size: 90%;
+        letter-spacing: 1px;
     }
+
+
+    #contact-panel-left,
+    #contact-panel-right {
+        width: 15.75rem;
+        height: 70.25rem;
+        padding: 2rem 1.5rem;
+    }
+
+    #cover-text {
+        padding: 2rem 0.625rem;
+    }
+
+    #cover-text h3 {
+        font-size: 400%
+    }
+
+    #social-networks {
+        width: 80%;
+    }
+}
+
+/* For very small screen sizes re-size the flip-cards */
+@media screen and (max-width: 320px) {
+
+    #logo {
+        margin-left: 10px;
+        font-size: 200%;
+    }
+
+    #menu {
+        margin-left: 10px;
+        font-size: 70%;
+        letter-spacing: 1px;
+    }
+
+
+    .flip-card,
+    .flip-card-front img {
+        width: 18.75rem;
+        height: 18.75rem;
+    }
+
+    #social-networks {
+        width: 80%;
+    }
+}
