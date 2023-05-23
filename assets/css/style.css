@@ -492,3 +492,54 @@ footer {
     font-size: 200%;
     color: #3a3a3a;
 }
+
+/* For larger to medium screens size from 1300px wide and down */
+@media screen and (max-width: 1300px) {
+    #contact-panel-container {
+        width: 100%;
+        display: block;
+    }
+
+    #contact-panel-left {
+        margin: auto;
+        float: none;
+    }
+
+    #contact-panel-right {
+        margin: 4.6875rem auto;
+        float: none;
+    }
+}
+
+/* For very small screen sizes from 450px wide and down */
+@media screen and (max-width: 450px) {
+
+    #contact-panel-left,
+    #contact-panel-right {
+        width: 15.75rem;
+        height: 70.25rem;
+        padding: 2rem 1.5rem;
+    }
+
+    #cover-text {
+        padding: 2rem 0.625rem;
+    }
+
+    #cover-text h3 {
+        font-size: 400%
+    }
+
+    #social-networks {
+        width: 80%;
+    }
+}
+
+/* For very small screen sizes re-size the flip-cards */
+@media screen and (max-width: 320px) {
+
+    .flip-card,
+    .flip-card-front img {
+        width: 18.75rem;
+        height: 18.75rem;
+    }
+}
