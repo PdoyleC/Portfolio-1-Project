@@ -21,11 +21,12 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
 - [Design](#design)
   - [Colour Scheme](#colour-scheme)
   - [Fonts](#fonts)
-  - [Future changes](#future-changes)
+- [Future changes](#future-changes)
+- [Wireframes](#wireframes)
 - [Testing](#testing)
   - [Code Validation](#code-validation)
   - [Lighthouse](#lighthouse)
-- [WAVE](#wave)
+  - [WAVE](#wave)
 - [Credits](#credits)
   - [Content](#content)
   - [Code](#code)
@@ -111,6 +112,8 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
 
       ![Find Us](documentation/find-us.jpg)
 
+[Back to contents](#contents)
+
 
 ## Design
 
@@ -126,9 +129,17 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
 ![Navbar](documentation/arvo-font.jpg)
 
 
-### Future changes
+## Future changes
 * Add images to the back of the flip cards, and have a photo of the solution instead of text. 
 * Add animations for how chess pieces move on a board. 
+
+[Back to contents](#contents)
+
+## Wireframes
+
+
+[Back to contents](#contents)
+
 
 ## Testing
 
@@ -153,12 +164,13 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
 ![Lighthouse Desktop test](documentation/lighthouse-desktop.jpg)
 ![Lighthouse Mobile test](documentation/lighthouse-mobile.jpg)
 
-## WAVE
+### WAVE
 
 I used WAVE (Web Accessibility Evaluation Tool) in chrome developer tools to test the website accessibility. WAVE is a tool that identifies ways to make a webpage more accessible to people with disabilities. WAVE scans the website for on-page and technical accessibility issues and errors to bring the site in line with recognized accessibility standards, like the Web Content Accessibility Guidelines (WCAG).
 
 ![WAVE Test](documentation/wave.jpg)
 
+[Back to contents](#contents)
 
 ## Credits
 
@@ -181,7 +193,6 @@ I used WAVE (Web Accessibility Evaluation Tool) in chrome developer tools to tes
 
 * The icons in the header, footer and on the back of the flip-cards were taken from [Font Awesome](https://fontawesome.com/)
 * The fonts used were imported from [Google Fonts](https://fonts.google.com/)
-
 * The hero image is a photo by Pat Eisenberge and is called The Pawn's Gambit, and was downloaded from [https://pixels.com/](https://pixels.com/featured/the-pawns-gambit-pat-eisenberger.html)
 * The thank you page image is a photo by Felix Mittermeier, and was downloaded from [https://pixabay.com/](https://pixabay.com/photos/chess-board-game-board-game-2730034/)
 * The chess puzzles are screen shot from chess.com  [https://www.chess.com/home](https://www.chess.com/puzzles/rated) and are generated on the site. 
@@ -190,3 +201,5 @@ I used WAVE (Web Accessibility Evaluation Tool) in chrome developer tools to tes
 ### Acknowledgments
 
 - Thank you to my mentor Elaine Roche who went out of her way to help to with points and tips and gave me very good advice and feedback on how to plan and execute this project and who provided me with lots of pointers on resources to help select colours and images and well as resources to help with coding and testing.
+
+[Back to contents](#contents)

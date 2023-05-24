@@ -543,6 +543,23 @@ footer {
         letter-spacing: 1px;
     }
 
+    .row1 {
+        margin-left: 10px;
+        font-size: 80%;
+
+    }
+
+    .row2 {
+        margin-left: 10px;
+        font-size: 80%;
+
+    }
+
+    #about-us {
+        width: 15.75rem;
+        height: 58.25rem;
+        padding: 2rem 3.4rem;
+    }
 
     #contact-panel-left,
     #contact-panel-right {
