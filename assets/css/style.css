@@ -529,35 +529,34 @@ footer {
 }
 
 
-/* For very small screen sizes from 450px wide and down */
-@media screen and (max-width: 450px) {
+/* For very small screen sizes from 480px wide and down */
+@media screen and (max-width: 480px) {
 
     #logo {
-        margin-left: 10px;
-        font-size: 150%;
+        margin-right: 10px;
+        font-size: 60%;
+        padding: 2rem 1rem;
     }
 
     #menu {
         margin-left: 10px;
-        font-size: 90%;
+        font-size: 70%;
         letter-spacing: 1px;
     }
 
     .row1 {
         margin-left: 10px;
-        font-size: 80%;
-
+        font-size: 60%;
     }
 
     .row2 {
         margin-left: 10px;
-        font-size: 80%;
-
+        font-size: 60%;
     }
 
     #about-us {
         width: 15.75rem;
-        height: 58.25rem;
+        height: 50.25rem;
         padding: 2rem 3.4rem;
     }
 
