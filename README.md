@@ -11,6 +11,13 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
   - [...For the user](#for-the-user)
   - [...For the club owner](#for-the-club-owner)
 - [Features](#features)
+  - [Navigation Bar](#navigation-bar)
+  - [Logo](#logo)
+  - [Hero Image](#hero-image)
+  - [Class Timetable](#class-timetable)
+  - [Footer](#footer)
+  - [Puzzle Page](#puzzle-page)
+  - [Contact Page](#contact-page)
 - [Design](#design)
   - [Colour Scheme](#colour-scheme)
   - [Fonts](#fonts)
@@ -46,7 +53,7 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
 
 ## Features
 
-- __Navigation Bar__
+### Navigation Bar
 
   * The navigation bar has a consistent look and placement on all three pages of the website supporting easy navigation.  It includes a simple Logo, Home page, Puzzle, and Contact links and is responsive on multiple screen sizes.
   * The navigation bar was designed to make it easy to read and with contrasting colors that are easy to read.
@@ -55,20 +62,20 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
 
       ![Navbar](documentation/nav-bar.jpg)
 
-- __Logo__
+### Logo
   
   * The Logo at the top left corner is clickable, and it redirects the user to the Home page once it is clicked.
   
-- __Hero Image__
+### Hero Image
 
   * The landing area includes a photograph of chess piece's in black and white to capture the black and white piece's that are used in chess, black and white will be used as a colour through the site to represent this, Green is also used as this is a popular colour for online chess.
       ![Hero Image](documentation/hero-image.jpg)
 
-- __Class Timetable__
+### Class Timetable
 
   * The Chess Society opening times and what lesson are on are displayed cards on the main page.  These cards give the user more information about when specific classes are on and with open play all level are welcome.
 
-- __Footer__
+### Footer
 
   * The footer section includes links to the relevant social media sites for the Movie Theater. The links will open to a new tab to allow easy navigation for the user.
   * The footer is valuable to the user as it encourages them to keep connected via social media.
@@ -76,7 +83,7 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
 
     
 
-- __Puzzle Page__
+### Puzzle Page
   * There is a benifits section to let the user know about how puzzle can improve your game.
   * The puzzle page is there for club members to test themselves on a weekly basis with new chess problems.
   * This page will attract users to come back to the site to check for new problems.
@@ -86,7 +93,7 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
       ![Hero Image](documentation/puzzle.jpg)
 
 
-- __Contact Page__
+### Contact Page
 
   * The Contact Us panel of the Contact page allows the user to send a message/give feedback to the company and if they want, sign up to the company mailing list to get discount codes and offers.  The user is asked to provide their name and email address when sending a message. By default, the option to join the mailing list is set to 'no' - to prevent them accidentally signing up for the mailing list and getting unwanted email. Sending the message will result in being directed to a page saying that someone will be in contact soon and you will be redirected back to the home page.
 
@@ -99,8 +106,6 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
 * The 'Contact Us' now sends the user to a page saying that someone will be in contact soon and you will be redirected back to the home page.
   
 ![Contact](documentation/redirection-page.jpg)
-
-- __Contact Page__
 
   * The How to Find Us panel of the Contact page gives the user an interactive google map showing the location of the company along with details on full address, phone number and administration email address in large font to make it easily readable.  By clicking the 'View larger map' link the user can go to the google maps site for the address - this opens in a separate tab to allow ease of navigation.
 
@@ -151,6 +156,7 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
 ## WAVE
 
 I used WAVE (Web Accessibility Evaluation Tool) in chrome developer tools to test the website accessibility. WAVE is a tool that identifies ways to make a webpage more accessible to people with disabilities. WAVE scans the website for on-page and technical accessibility issues and errors to bring the site in line with recognized accessibility standards, like the Web Content Accessibility Guidelines (WCAG).
+
 ![WAVE Test](documentation/wave.jpg)
 
 
