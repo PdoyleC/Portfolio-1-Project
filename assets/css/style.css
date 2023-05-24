@@ -487,6 +487,7 @@ footer {
     color: #3a3a3a;
 }
 
+/* Media screens */
 /* For larger to medium screens size from 1300px wide and down */
 @media screen and (max-width: 1300px) {
     #contact-panel-container {

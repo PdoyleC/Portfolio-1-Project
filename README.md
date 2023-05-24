@@ -128,6 +128,7 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
 
 * Content for the pages were inspired by fellow Code Institute students from Ulrike Riemenschneider [link to site](https://uriem.github.io/art-school/index.html) for her classes timetable layout and Margarita B [link to site](https://uriem.github.io/art-school/index.html) for the Welcome and Chess Benifits sections.
 * Contact page code was inspired by The Coders Coffeeshop page, Ulrike Riemenschneider and Elaine Roche (https://elainebroche-dev.github.io/ms1-thrive/contact.html)
+- code for media screens response was inspired by [Media Queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp), Chris Williams (<https://chr15w1986.github.io/Portfolio-1/index.html>), Ulrike Riemenschneider, Margarita B and Elaine Roche.
 
 ### Code
 
