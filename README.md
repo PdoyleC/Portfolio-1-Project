@@ -145,6 +145,10 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
 
 ![Wireframe Home Puzzle](documentation/wire-frame-puzzle.jpg)
 
+3. **Contact Page** with navigation features in a header, details for the user to contact the site owners about classes or any other questions and location of chess club with map.
+
+![Wireframe Home Contact](documentation/wire-frame-contact.jpg)
+
 
 
 
