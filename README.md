@@ -136,6 +136,16 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
 [Back to contents](#contents)
 
 ## Wireframes
+* The structure of the initial site will be three pages:
+1. **Home Page** with navigation features in a header and class timetable.
+
+![Wireframe Home page](documentation/wire-frame-home.jpg)
+
+2. **Puzzle Page** with navigation features in a header, Benifits of Chess Puzzles and Chess Puzzles.
+
+![Wireframe Home Puzzle](documentation/wire-frame-puzzle.jpg)
+
+
 
 
 [Back to contents](#contents)
