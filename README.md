@@ -15,6 +15,10 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
   - [Colour Scheme](#colour-scheme)
   - [Fonts](#fonts)
   - [Future changes](#future-changes)
+- [Testing](#testing)
+  - [Code Validation](#code-validation)
+  - [Lighthouse](#lighthouse)
+- [WAVE](#wave)
 - [Credits](#credits)
   - [Content](#content)
   - [Code](#code)
@@ -120,6 +124,34 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
 ### Future changes
 * Add images to the back of the flip cards, and have a photo of the solution instead of text. 
 * Add animations for how chess pieces move on a board. 
+
+## Testing
+
+### Code Validation
+* HTML
+  - No errors, returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+  - 
+ ![HTML validator](documentation/html-validator.jpg)
+ 
+* CSS
+  - No errors, found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+  - 
+ ![CSS validator](documentation/css-validator.jpg)
+
+ ### Lighthouse
+ * Lighthouse in chrome developer tool, was used to test the website for:
+  - Performance - how the page performs whilst loading.
+  - Accessibility - how accessible is the site for all users and how can it be improved.
+  - Best practices - how does the site conform to industry best practices.
+  - SEO - search engine optimization. Is the site optimized for search engine result rankings.
+
+![Lighthouse Desktop test](documentation/lighthouse-desktop.jpg)
+![Lighthouse Mobile test](documentation/lighthouse-mobile.jpg)
+
+## WAVE
+
+I used WAVE (Web Accessibility Evaluation Tool) in chrome developer tools to test the website accessibility. WAVE is a tool that identifies ways to make a webpage more accessible to people with disabilities. WAVE scans the website for on-page and technical accessibility issues and errors to bring the site in line with recognized accessibility standards, like the Web Content Accessibility Guidelines (WCAG).
+![WAVE Test](documentation/wave.jpg)
 
 
 ## Credits
