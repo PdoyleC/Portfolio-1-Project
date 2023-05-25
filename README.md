@@ -6,7 +6,8 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
 
 ![Mockup](doc)
 
-
+## Contents
+- [Contents](#contents)
 - [Project Goals](#project-goals)
   - [...For the user](#for-the-user)
   - [...For the club owner](#for-the-club-owner)
@@ -23,6 +24,9 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
   - [Fonts](#fonts)
 - [Future changes](#future-changes)
 - [Wireframes](#wireframes)
+  - [Home Page](#home-page)
+  - [Puzzle Page](#puzzle-page-1)
+  - [Contact Page](#contact-page-1)
 - [Testing](#testing)
   - [Code Validation](#code-validation)
   - [Lighthouse](#lighthouse)
@@ -137,14 +141,16 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
 
 ## Wireframes
 * The structure of the initial site will be three pages:
+### Home Page
 1. **Home Page** with navigation features in a header and class timetable.
 
 ![Wireframe Home page](documentation/wire-frame-home.jpg)
-
+### Puzzle Page
 2. **Puzzle Page** with navigation features in a header, Benifits of Chess Puzzles and Chess Puzzles.
 
 ![Wireframe Home Puzzle](documentation/wire-frame-puzzle.jpg)
 
+### Contact Page
 3. **Contact Page** with navigation features in a header, details for the user to contact the site owners about classes or any other questions and location of chess club with map.
 
 ![Wireframe Home Contact](documentation/wire-frame-contact.jpg)
