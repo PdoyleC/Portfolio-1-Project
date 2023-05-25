@@ -575,6 +575,11 @@ footer {
         font-size: 400%
     }
 
+    iframe {
+        width: 105%;
+        height: 290%;
+    }
+
     #social-networks {
         width: 80%;
     }
@@ -592,6 +597,15 @@ footer {
         margin-left: 10px;
         font-size: 70%;
         letter-spacing: 1px;
+    }
+
+    #contact-panel-left {
+        height: 50.0rem;
+    }
+
+    #contact-panel-right {
+        width: 37.5rem;
+        height: 48.0rem;
     }
 
 
