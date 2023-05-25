@@ -489,15 +489,12 @@ footer {
 
 /*---------- STYLING FOR  404 PAGE ----------*/
 
-.confirmation {
+.error {
 
     display: flex;
-    font-style: black;
     flex-direction: column;
     justify-content: center;
     width: auto;
-
-
     justify-content: center;
     text-align: center;
     color: #000000;
@@ -506,13 +503,9 @@ footer {
 
 }
 
-.confirmation p h3 {
-    flex: auto;
-}
-
-.cursive {
+.error-text {
     font-family: 'Arvo';
-    font-size: 300%;
+    font-size: 200%;
 
 }
 
