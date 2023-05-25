@@ -487,6 +487,36 @@ footer {
     color: #000000;
 }
 
+/*---------- STYLING FOR CONFIRMATION AND 404 PAGES ----------*/
+
+.confirmation {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: auto;
+    border: 2px solid #7240bf;
+    border-radius: 20px;
+    background-color: #7240bf;
+    justify-content: center;
+    text-align: center;
+    color: whitesmoke;
+    padding: 1rem;
+    margin: 3.5rem;
+    box-shadow: 5px 5px 10px rgb(248, 111, 218);
+}
+
+.confirmation p h3 {
+    flex: auto;
+}
+
+.cursive {
+    font-family: 'Satisfy', cursive;
+    font-size: xx-large;
+    text-shadow: 2px 2px 2px #462D5A;
+}
+
+
+
 /* Media screens */
 /* For larger to medium screens size from 1300px wide and down */
 @media screen and (max-width: 1300px) {
@@ -583,6 +613,12 @@ footer {
     #social-networks {
         width: 80%;
     }
+        .hidden-desktop {
+            display: none;
+        }
+    .hidden-mobile {
+         display: none;
+                 }
 }
 
 /* For very small screen sizes re-size the flip-cards */
@@ -623,4 +659,12 @@ footer {
     #social-networks {
         width: 80%;
     }
+
+    .hidden-desktop {
+        display: none;
+        }
+
+    .hidden-mobile {
+         display: none;
+                 }
 }
