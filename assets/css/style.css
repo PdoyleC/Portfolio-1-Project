@@ -484,7 +484,7 @@ footer {
 
 .social-networks i {
     font-size: 200%;
-    color: #3a3a3a;
+    color: #000000;
 }
 
 /* Media screens */
@@ -576,7 +576,7 @@ footer {
     }
 
     iframe {
-        width: 105%;
+        width: 40%;
         height: 290%;
     }
 
@@ -597,6 +597,11 @@ footer {
         margin-left: 10px;
         font-size: 70%;
         letter-spacing: 1px;
+    }
+
+    iframe {
+        width: 40%;
+        height: 290%;
     }
 
     #contact-panel-left {
