@@ -31,6 +31,7 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
   - [Code Validation](#code-validation)
   - [Lighthouse](#lighthouse)
   - [WAVE](#wave)
+  - [Inspect](#inspect)
 - [Credits](#credits)
   - [Content](#content)
   - [Code](#code)
@@ -155,9 +156,6 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
 
 ![Wireframe Home Contact](documentation/wire-frame-contact.jpg)
 
-
-
-
 [Back to contents](#contents)
 
 
@@ -186,9 +184,16 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
 
 ### WAVE
 
-I used WAVE (Web Accessibility Evaluation Tool) in chrome developer tools to test the website accessibility. WAVE is a tool that identifies ways to make a webpage more accessible to people with disabilities. WAVE scans the website for on-page and technical accessibility issues and errors to bring the site in line with recognized accessibility standards, like the Web Content Accessibility Guidelines (WCAG).
+* I used WAVE (Web Accessibility Evaluation Tool) in chrome developer tools to test the website accessibility. WAVE is a tool that identifies ways to make a webpage more accessible to people with disabilities. WAVE scans the website for on-page and technical accessibility issues and errors to bring the site in line with recognized accessibility standards, like the Web Content Accessibility Guidelines (WCAG).
 
 ![WAVE Test](documentation/wave.jpg)
+
+
+### Inspect
+
+* I used Inspect to make changes to the code and to test layout and positioning. Inspect was used to test the different media screen sizes. When there was a difference in the size of a 320x480px screen and the border size, Inspect was used to test the size and remove the overhang by changing the width from 20.75rem to 12.75rem.
+
+![WAVE Test](documentation/testing-media-size.jpg)
 
 [Back to contents](#contents)
 
@@ -198,7 +203,7 @@ I used WAVE (Web Accessibility Evaluation Tool) in chrome developer tools to tes
 
 * Content for the pages were inspired by fellow Code Institute students from Ulrike Riemenschneider [link to site](https://uriem.github.io/art-school/index.html) for her classes timetable layout and Margarita B [link to site](https://uriem.github.io/art-school/index.html) for the Welcome and Chess Benifits sections.
 * Contact page code was inspired by The Coders Coffeeshop page, Ulrike Riemenschneider and Elaine Roche (https://elainebroche-dev.github.io/ms1-thrive/contact.html)
-- code for media screens response was inspired by [Media Queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp), Chris Williams (<https://chr15w1986.github.io/Portfolio-1/index.html>), Ulrike Riemenschneider, Margarita B and Elaine Roche.
+* Code for media screens response was inspired by [Media Queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp), Chris Williams (<https://chr15w1986.github.io/Portfolio-1/index.html>), Ulrike Riemenschneider, Margarita B and Elaine Roche.
 
 ### Code
 
