@@ -73,6 +73,7 @@ body {
     background-color: #000000;
     color: #fcfdf8;
 
+
 }
 
 .row1 {
@@ -210,6 +211,7 @@ body {
     position: relative;
     background: url('../images/chess-hero.jpg') no-repeat center center;
 }
+
 
 
 
@@ -525,8 +527,11 @@ footer {
     }
 
     #contact-panel-right {
-        margin: 4.6875rem auto;
+        margin: 2.6875rem auto;
         float: none;
+        width: 30.75rem;
+        height: 43.25rem;
+        padding: 2rem 1.5rem;
     }
 }
 
@@ -562,6 +567,7 @@ footer {
         padding: 2rem 1rem;
     }
 
+
     #menu {
         margin-left: 10px;
         font-size: 85%;
@@ -584,17 +590,17 @@ footer {
         padding: 2rem 3.4rem;
     }
 
-        #contact-panel-left {
-            width: 16.75rem;
-            height: 55.25rem;
-            padding: 2rem 1.5rem;
-        }
-    
-        #contact-panel-right {
-            width: 18.75rem;
-            height: 40.25rem;
-            padding: 2rem 1.5rem;
-        }
+    #contact-panel-left {
+        width: 16.75rem;
+        height: 55.25rem;
+        padding: 2rem 1.5rem;
+    }
+
+    #contact-panel-right {
+        width: 18.75rem;
+        height: 40.25rem;
+        padding: 2rem 1.5rem;
+    }
 
     #cover-text {
         padding: 2rem 0.625rem;
