@@ -558,13 +558,13 @@ footer {
 
     #logo {
         margin-right: 10px;
-        font-size: 60%;
+        font-size: 140%;
         padding: 2rem 1rem;
     }
 
     #menu {
         margin-left: 10px;
-        font-size: 70%;
+        font-size: 85%;
         letter-spacing: 1px;
     }
 
@@ -584,12 +584,17 @@ footer {
         padding: 2rem 3.4rem;
     }
 
-    #contact-panel-left,
-    #contact-panel-right {
-        width: 15.75rem;
-        height: 70.25rem;
-        padding: 2rem 1.5rem;
-    }
+        #contact-panel-left {
+            width: 16.75rem;
+            height: 55.25rem;
+            padding: 2rem 1.5rem;
+        }
+    
+        #contact-panel-right {
+            width: 18.75rem;
+            height: 40.25rem;
+            padding: 2rem 1.5rem;
+        }
 
     #cover-text {
         padding: 2rem 0.625rem;
@@ -607,12 +612,7 @@ footer {
     #social-networks {
         width: 80%;
     }
-        .hidden-desktop {
-            display: none;
-        }
-    .hidden-mobile {
-         display: none;
-                 }
+
 }
 
 /* For very small screen sizes re-size the flip-cards */
@@ -653,12 +653,4 @@ footer {
     #social-networks {
         width: 80%;
     }
-
-    .hidden-desktop {
-        display: none;
-        }
-
-    .hidden-mobile {
-         display: none;
-                 }
 }
