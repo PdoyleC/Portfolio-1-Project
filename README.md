@@ -32,6 +32,8 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
   - [Lighthouse](#lighthouse)
   - [WAVE](#wave)
   - [Inspect](#inspect)
+  - [Bugs \& ERRORS](#bugs--errors)
+  - [UNSOLVED BUGS OR ERRORS](#unsolved-bugs-or-errors)
 - [Credits](#credits)
   - [Content](#content)
   - [Code](#code)
@@ -195,6 +197,14 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
 
 ![WAVE Test](documentation/testing-media-size.jpg)
 
+### Bugs & ERRORS
+
+* Hero image wasn't shirnking for smaller screen size, tried picture element, also tried using img for desktop and 1 for mobile and using CSS for style with min and max width of the screen size. Using Width Switching worked in the end, where the browser will load the small image at small viewport sizes, the medium image at medium viewport sizes, and the large at large viewport sizes, resorces where found at the following site [link to site](https://webdesign.tutsplus.com/tutorials/quick-tip-how-to-use-html5-picture-for-responsive-images--cms-21015#usingsizestocontrolimagelayout).
+* 
+
+
+### UNSOLVED BUGS OR ERRORS
+
 [Back to contents](#contents)
 
 ## Credits
@@ -203,6 +213,7 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
 
 * Content for the pages were inspired by fellow Code Institute students from Ulrike Riemenschneider [link to site](https://uriem.github.io/art-school/index.html) for her classes timetable layout and Margarita B [link to site](https://uriem.github.io/art-school/index.html) for the Welcome and Chess Benifits sections.
 * Contact page code was inspired by The Coders Coffeeshop page, Ulrike Riemenschneider and Elaine Roche (https://elainebroche-dev.github.io/ms1-thrive/contact.html)
+* Code for 404 error page was inspired by Megan_5P [link to site](https://modonohoe.github.io/aurora-chasers-ireland/).
 * Code for media screens response was inspired by [Media Queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp), Chris Williams (<https://chr15w1986.github.io/Portfolio-1/index.html>), Ulrike Riemenschneider, Margarita B and Elaine Roche.
 
 ### Code
@@ -213,6 +224,7 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
 * code onhow to create a shadow around the submit button [How to create shadows](<https://www.w3schools.com/cssref/css3_pr_box-shadow.php>)
 * Code on how to include google map with marker was based on code from this site :  [How to embed Google Map](https://www.maps.ie/create-google-map/)
 * Code on how to implement flex boxes was based on instructions from [YouTube Flexbox Tutorial](https://www.youtube.com/watch?v=S0a7PEOi0do)
+* Favicon code was found at the following site [link to site](https://favicon.io/).
 
 ### Media
 
