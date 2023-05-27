@@ -592,9 +592,11 @@ footer {
     }
 
     #about-us {
+        display: flex;
+        flex-flow: row wrap;
         width: 13.23rem;
         height: 42.25rem;
-        padding: 2rem 3.4rem;
+        padding: 2rem 2rem;
     }
 
     #contact-panel-left {
