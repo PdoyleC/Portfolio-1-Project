@@ -12,7 +12,6 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
 - [Project Goals](#project-goals)
   - [...For the user](#for-the-user)
   - [...For the club owner](#for-the-club-owner)
-- [](#-1)
 - [Features](#features)
   - [Navigation Bar](#navigation-bar)
   - [Logo](#logo)
@@ -21,7 +20,6 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
   - [Footer](#footer)
   - [Puzzle Page](#puzzle-page)
   - [Contact Page](#contact-page)
-- [](#-2)
 - [Design](#design)
   - [Colour Scheme](#colour-scheme)
   - [Fonts](#fonts)
@@ -30,7 +28,6 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
   - [Home Page](#home-page)
   - [Puzzle Page](#puzzle-page-1)
   - [Contact Page](#contact-page-1)
-- [](#-3)
 - [Testing](#testing)
   - [Code Validation](#code-validation)
   - [Lighthouse](#lighthouse)
@@ -39,15 +36,14 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
   - [404 ERROR](#404-error)
 - [Bugs \& ERRORS](#bugs--errors)
 - [UNSOLVED BUGS OR ERRORS](#unsolved-bugs-or-errors)
-- [](#-4)
 - [Credits](#credits)
   - [Content](#content)
   - [Code](#code)
   - [Media](#media)
   - [Acknowledgments](#acknowledgments)
 
-##
 
+##
 ## Project Goals
 
 ### ...For the user
@@ -65,7 +61,7 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
 * To get users to revisit the site for new puzzles.
 * To be contactable for new members.
 
-##
+
 ## Features
 
 ### Navigation Bar
@@ -122,13 +118,13 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
   
 ![Contact](documentation/redirection-page.jpg)
 
-  * The How to Find Us panel of the Contact page gives the user an interactive google map showing the location of the company along with details on full address, phone number and administration email address in large font to make it easily readable.  By clicking the 'View larger map' link the user can go to the google maps site for the address - this opens in a separate tab to allow ease of navigation.
+* The How to Find Us panel of the Contact page gives the user an interactive google map showing the location of the company along with details on full address, phone number and administration email address in large font to make it easily readable.  By clicking the 'View larger map' link the user can go to the google maps site for the address - this opens in a separate tab to allow ease of navigation.
 
       ![Find Us](documentation/find-us.jpg)
 
 [Back to contents](#contents)
 
-##
+
 ## Design
 
 ### Colour Scheme
@@ -167,7 +163,7 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
 
 [Back to contents](#contents)
 
-##
+
 ## Testing
 
 ### Code Validation
@@ -222,7 +218,7 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
 
 [Back to contents](#contents)
 
-##
+
 ## Credits
 
 ### Content
@@ -254,6 +250,6 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
 
 ### Acknowledgments
 
-- Thank you to my mentor Elaine Roche who went out of her way to help to with points and tips and gave me very good advice and feedback on how to plan and execute this project and who provided me with lots of pointers on resources to help select colours and images and well as resources to help with coding and testing.
+* Thank you to my mentor Elaine Roche who went out of her way to help to with points and tips and gave me very good advice and feedback on how to plan and execute this project and who provided me with lots of pointers on resources to help select colours and images and well as resources to help with coding and testing.
 
 [Back to contents](#contents)
