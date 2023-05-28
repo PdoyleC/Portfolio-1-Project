@@ -12,6 +12,7 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
 - [Project Goals](#project-goals)
   - [...For the user](#for-the-user)
   - [...For the club owner](#for-the-club-owner)
+- [](#-1)
 - [Features](#features)
   - [Navigation Bar](#navigation-bar)
   - [Logo](#logo)
@@ -20,6 +21,7 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
   - [Footer](#footer)
   - [Puzzle Page](#puzzle-page)
   - [Contact Page](#contact-page)
+- [](#-2)
 - [Design](#design)
   - [Colour Scheme](#colour-scheme)
   - [Fonts](#fonts)
@@ -28,6 +30,7 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
   - [Home Page](#home-page)
   - [Puzzle Page](#puzzle-page-1)
   - [Contact Page](#contact-page-1)
+- [](#-3)
 - [Testing](#testing)
   - [Code Validation](#code-validation)
   - [Lighthouse](#lighthouse)
@@ -36,6 +39,7 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
   - [404 ERROR](#404-error)
 - [Bugs \& ERRORS](#bugs--errors)
 - [UNSOLVED BUGS OR ERRORS](#unsolved-bugs-or-errors)
+- [](#-4)
 - [Credits](#credits)
   - [Content](#content)
   - [Code](#code)
@@ -43,7 +47,6 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
   - [Acknowledgments](#acknowledgments)
 
 ##
-
 
 ## Project Goals
 
@@ -62,7 +65,7 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
 * To get users to revisit the site for new puzzles.
 * To be contactable for new members.
 
-
+##
 ## Features
 
 ### Navigation Bar
@@ -125,7 +128,7 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
 
 [Back to contents](#contents)
 
-
+##
 ## Design
 
 ### Colour Scheme
@@ -164,7 +167,7 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
 
 [Back to contents](#contents)
 
-
+##
 ## Testing
 
 ### Code Validation
@@ -210,7 +213,7 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
 
 * Hero image wasn't shirnking for smaller screen size, tried picture element, also tried using img for desktop and 1 for mobile and using CSS for style with min and max width of the screen size. Using Width Switching worked in the end, where the browser will load the small image at small viewport sizes, the medium image at medium viewport sizes, and the large at large viewport sizes, resorces where found at the following site Tuts Plus [link to site](https://webdesign.tutsplus.com/tutorials/quick-tip-how-to-use-html5-picture-for-responsive-images--cms-21015#usingsizestocontrolimagelayout).
 * Map was too large when website was opened on a phone. This was resolved in CSS in the Media screens section and changing the `width` and `height` for contact-panel-right.
-* There was a bug in FireFox web browser with the flip cards, the issue was that the front of the card could be seen in reverse when looking at the back of the card. I tried adding `transform: rotateX(0deg)` in FireFox dev tool which resolved the issue in FireFox, but when this was added to Chrome dev tool the card wouldn't flip over. Next I added `backface-visiblity:hidden` to `level1-ideals-container` which resolved the issue in FireFox and didn't effect the cards flipping in Chrome.
+* There was a bug in FireFox web browser with the flip cards, the issue was that the front of the card could be seen in reverse when looking at the back of the card. I tried adding `transform: rotateX(0deg)` in FireFox dev tool which resolved the issue in FireFox, but when this was added to Chrome dev tool the card wouldn't flip over. Next I added `backface-visiblity:hidden` to `level1-ideals-container` which resolved the issue in FireFox and didn't effect the cards flipping in Chrome. [Link to FireFox Bug fix](https://stackoverflow.com/questions/9604982/backface-visibility-not-working-properly-in-firefox-works-in-safari).
 
 
 ![Firefox Bug](documentation/firefox-bug.jpg)
@@ -219,6 +222,7 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
 
 [Back to contents](#contents)
 
+##
 ## Credits
 
 ### Content

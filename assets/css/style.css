@@ -13,12 +13,13 @@
     font-size: 280%;
     color: #000000;
 }
-
+/* 
 #logob {
     float: left;
     font-size: 280%;
     color: #fcfcfc;
 }
+   */
 
 body {
     margin: 0;
@@ -44,10 +45,12 @@ img {
     letter-spacing: 4px;
 }
 
+/*
 #menub {
     font-size: 110%;
     letter-spacing: 4px;
 }
+*/
 
 #menu,
 #logo {
@@ -55,11 +58,13 @@ img {
     color: #ffffff;
 }
 
+
 #menub,
 #logob {
     line-height: 75px;
     color: #000000;
 }
+
 
 #menu li {
     float: right;
@@ -67,10 +72,12 @@ img {
     margin-right: 30px;
 }
 
+
 #menu a {
     text-decoration: none;
     color: inherit;
 }
+
 
 #menu a:hover {
     border-bottom: 1px solid #3a3a3a;
