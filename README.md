@@ -4,7 +4,7 @@
 
 Crosshaven Chess Society is a site that advertises a fictional chess clud. The club primarily use is for chess lovers to come a play games againest other players or to come and learn how to play. The site is targeted toward people in the Cork area who are close to Crosshaven. The site will be useful for people who want to learn the game and interact with other chess players.
 
-![Mockup](doc)
+![Mockup](documentation/mockup.jpg)
 
 ## Contents
 - [Contents](#contents)
