@@ -499,6 +499,17 @@ footer {
     color: #000000;
 }
 
+#disclaimer {
+    clear: both;
+    text-align: center;
+    padding: 1.875rem;
+}
+
+.footer-text {
+    font-size: 90%;
+    font-weight: 80;
+}
+
 /*---------- STYLING FOR  404 PAGE ----------*/
 
 .error {
@@ -637,6 +648,11 @@ footer {
 
     #social-networks {
         width: 80%;
+    }
+
+    .social-networks li {
+        padding: 20px;
+        font-size: 100%;
     }
 
 }
