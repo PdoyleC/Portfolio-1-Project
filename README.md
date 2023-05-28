@@ -2,7 +2,7 @@
 
 [View the live project here](https://pdoylec.github.io/Portfolio-1-Project/index.html)
 
-Crosshaven Chess Society is a site that advertises a fictional chess club. The club primarily use is for chess lovers to come a play games againest other players or to come and learn how to play. The site is targeted toward people in the Cork area who are close to Crosshaven. The site will be useful for people who want to learn the game and interact with other chess players.
+Crosshaven Chess Society is a site that advertises a fictional chess club. The club primarily use is for chess lovers to come a play games against other players or to come and learn how to play. The site is targeted toward people in the Cork area who are close to Crosshaven. The site will be useful for people who want to learn the game and interact with other chess players.
 
 ![Mockup](documentation/mockup.jpg)
 
@@ -65,7 +65,7 @@ Crosshaven Chess Society is a site that advertises a fictional chess club. The c
 ### Navigation Bar
 
   * The navigation bar has a consistent look and placement on all three pages of the website supporting easy navigation.  It includes a simple Logo, Home page, Puzzle, and Contact links and is responsive on multiple screen sizes.
-  * The navigation bar was designed to make it easy to read and with contrasting colors that are easy to read.
+- The navigation bar was designed to make it easy to read and with contrasting colours that are easy to read.
   * This section will allow the user to navigate from page to page without having to revert back to the previous page via the ‘back’ button.
 
 
@@ -77,7 +77,7 @@ Crosshaven Chess Society is a site that advertises a fictional chess club. The c
   
 ### Hero Image
 
-  * The landing area includes a photograph of chess piece's in black and white to capture the black and white piece's that are used in chess, black and white will be used as a colour through the site to represent this, Green is also used as this is a popular colour for online chess.
+- The landing area includes a photograph of chess piece's in black and white to capture the black and white pieces that are used in chess, black and white will be used as a colour through the site to represent this, Green is also used as this is a popular colour for online chess.
       ![Hero Image](documentation/hero-image.jpg)
 
 ### Class Timetable
@@ -86,14 +86,14 @@ Crosshaven Chess Society is a site that advertises a fictional chess club. The c
 
 ### Footer
 
-  * The footer section includes links to the relevant social media sites for the Movie Theater. The links will open to a new tab to allow easy navigation for the user.
+  * The footer section includes links to the relevant social media sites for the Chess Club. The links will open to a new tab to allow easy navigation for the user.
   * The footer is valuable to the user as it encourages them to keep connected via social media.
 
 
     
 
 ### Puzzle Page
-  * There is a benifits section to let the user know about how puzzle can improve your game.
+  * There is a benefits section to let the user know about how puzzle can improve your game.
   * The puzzle page is there for club members to test themselves on a weekly basis with new chess problems.
   * This page will attract users to come back to the site to check for new problems.
   * There is 4 problems, Beginner - Intermediate - Advanced - GrandMaster, for different user levels.
@@ -150,7 +150,8 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
 
 ![Wireframe Home page](documentation/wire-frame-home.jpg)
 ### Puzzle Page
-2. **Puzzle Page** with navigation features in a header, Benifits of Chess Puzzles and Chess Puzzles.
+
+1. **Puzzle Page** with navigation features in a header, benefits of Chess Puzzles and Chess Puzzles.
 
 ![Wireframe Home Puzzle](documentation/wire-frame-puzzle.jpg)
 
@@ -205,7 +206,7 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
 
 ## Bugs & ERRORS
 
-* Hero image wasn't shirnking for smaller screen size, tried picture element, also tried using img for desktop and 1 for mobile and using CSS for style with min and max width of the screen size. Using Width Switching worked in the end, where the browser will load the small image at small viewport sizes, the medium image at medium viewport sizes, and the large at large viewport sizes, resorces where found at the following site Tuts Plus [link to site](https://webdesign.tutsplus.com/tutorials/quick-tip-how-to-use-html5-picture-for-responsive-images--cms-21015#usingsizestocontrolimagelayout).
+* Hero image wasn't shrinking for smaller screen size, tried picture element, also tried using img for desktop and 1 for mobile and using CSS for style with min and max width of the screen size. Using Width Switching worked in the end, where the browser will load the small image at small viewport sizes, the medium image at medium viewport sizes, and the large at large viewport sizes, resources where found at the following site Tuts Plus [link to site](https://webdesign.tutsplus.com/tutorials/quick-tip-how-to-use-html5-picture-for-responsive-images--cms-21015#usingsizestocontrolimagelayout).
 * Map was too large when website was opened on a phone. This was resolved in CSS in the Media screens section and changing the `width` and `height` for contact-panel-right.
 * There was a bug in FireFox web browser with the flip cards, the issue was that the front of the card could be seen in reverse when looking at the back of the card. I tried adding `transform: rotateX(0deg)` in FireFox dev tool which resolved the issue in FireFox, but when this was added to Chrome dev tool the card wouldn't flip over. Next I added `backface-visiblity:hidden` to `level1-ideals-container` which resolved the issue in FireFox and didn't effect the cards flipping in Chrome. [Link to FireFox Bug fix](https://stackoverflow.com/questions/9604982/backface-visibility-not-working-properly-in-firefox-works-in-safari).
 
@@ -219,18 +220,18 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
 
 ### Content
 
-* Content for the pages were inspired by fellow Code Institute students from Ulrike Riemenschneider [Art school Link](https://uriem.github.io/art-school/index.html) for her classes timetable layout and Margarita B [Art school Link](https://uriem.github.io/art-school/index.html) for the Welcome and Chess Benifits sections.
+* Content for the pages were inspired by fellow Code Institute students from Ulrike Riemenschneider [Art school Link](https://uriem.github.io/art-school/index.html) for her classes timetable layout and Margarita B [Art school Link](https://uriem.github.io/art-school/index.html) for the Welcome and Chess Benefits sections.
 * Contact page code was inspired by The Coders Coffeeshop page, Ulrike Riemenschneider and Elaine Roche (https://elainebroche-dev.github.io/ms1-thrive/contact.html)
 * Code for 404 error page was inspired by Megan_5P [Northern lights Link](https://modonohoe.github.io/aurora-chasers-ireland/).
 * Code for media screens response was inspired by [Media Queries Link](https://www.w3schools.com/css/css_rwd_mediaqueries.asp), Chris Williams (<https://chr15w1986.github.io/Portfolio-1/index.html>), Ulrike Riemenschneider, Margarita B and Elaine Roche.
-* Code for Disclamer was inspired by Elaine Roche [Thrive Link](<https://elainebroche-dev.github.io/ms1-thrive/contact.html>)
+* Code for Disclaimer was inspired by Elaine Roche [Thrive Link](<https://elainebroche-dev.github.io/ms1-thrive/contact.html>)
 
 ### Code
 
 * Code on how to create the fade-in of the Crosshaven Chess Society and menu bar came from information on this page : [CSS Image fade-in tutorial](https://blog.hubspot.com/website/css-fade-in)
 * Code on how to create the flip-card effect on the Home page was based on example code on : [W3Schools Flip card tutorial](https://www.w3schools.com/howto/howto_css_flip_card.asp)
 * Contact page code was inspired by The Coders Coffeeshop page, 
-* code onhow to create a shadow around the submit button [How to create shadows](<https://www.w3schools.com/cssref/css3_pr_box-shadow.php>)
+* code on how to create a shadow around the submit button [How to create shadows](<https://www.w3schools.com/cssref/css3_pr_box-shadow.php>)
 * Code on how to include google map with marker was based on code from this site :  [How to embed Google Map](https://www.maps.ie/create-google-map/)
 * Code on how to implement flex boxes was based on instructions from [YouTube Flexbox Tutorial](https://www.youtube.com/watch?v=S0a7PEOi0do)
 * Favicon code was found at the following site [Link to Favicon site](https://favicon.io/).
