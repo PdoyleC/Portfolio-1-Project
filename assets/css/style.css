@@ -706,4 +706,9 @@ footer {
     #social-networks {
         width: 80%;
     }
+
+    .social-networks li {
+        padding: 10px;
+        font-size: 90%;
+    }
 }

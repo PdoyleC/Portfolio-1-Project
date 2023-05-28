@@ -8,7 +8,6 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
 
 ## Contents
 - [Contents](#contents)
-- [](#)
 - [Project Goals](#project-goals)
   - [...For the user](#for-the-user)
   - [...For the club owner](#for-the-club-owner)
@@ -35,7 +34,6 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
   - [Inspect](#inspect)
   - [404 ERROR](#404-error)
 - [Bugs \& ERRORS](#bugs--errors)
-- [UNSOLVED BUGS OR ERRORS](#unsolved-bugs-or-errors)
 - [Credits](#credits)
   - [Content](#content)
   - [Code](#code)
@@ -43,7 +41,7 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
   - [Acknowledgments](#acknowledgments)
 
 
-##
+
 ## Project Goals
 
 ### ...For the user
@@ -213,8 +211,6 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
 
 
 ![Firefox Bug](documentation/firefox-bug.jpg)
-
-## UNSOLVED BUGS OR ERRORS
 
 [Back to contents](#contents)
 
