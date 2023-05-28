@@ -267,6 +267,8 @@ img {
 .level1-ideals-container * {
     flex: 1 100%;
     border-radius: 10px;
+    /* Safari */
+    backface-visibility: hidden;
 }
 
 .level2-ideals-container {
