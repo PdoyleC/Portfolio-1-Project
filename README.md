@@ -8,6 +8,7 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
 
 ## Contents
 - [Contents](#contents)
+- [](#)
 - [Project Goals](#project-goals)
   - [...For the user](#for-the-user)
   - [...For the club owner](#for-the-club-owner)
@@ -39,6 +40,8 @@ Crosshaven Chess Society is a site that advertises a fictional chess clud. The c
   - [Code](#code)
   - [Media](#media)
   - [Acknowledgments](#acknowledgments)
+
+##
 
 
 ## Project Goals

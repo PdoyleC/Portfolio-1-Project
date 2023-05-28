@@ -591,21 +591,21 @@ footer {
     }
 
     .row1 {
-        margin-left: 10px;
-        font-size: 60%;
+        margin-left: 5px;
+        font-size: 80%;
     }
 
     .row2 {
-        margin-left: 10px;
-        font-size: 60%;
+        margin-left: 5px;
+        font-size: 80%;
     }
 
     #about-us {
         display: flex;
         flex-flow: row wrap;
         width: 16.23rem;
-        height: 42.25rem;
-        padding: 2rem 2rem;
+        height: 62.25rem;
+        padding: 2rem 4rem;
     }
 
     #contact-panel-left {
