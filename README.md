@@ -249,7 +249,7 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
   
 ![Contact Bug Bug](documentation/contact-bug.jpg)
 
-## **Deployment and Development**
+## Deployment and Development
 ---
 The site was deployed to GitHub pages using the following steps:
 
