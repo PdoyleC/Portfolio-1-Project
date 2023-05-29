@@ -2,7 +2,7 @@
 
 [View the live project here](https://pdoylec.github.io/Portfolio-1-Project/index.html)
 
-Crosshaven Chess Society is a site that advertises a fictional chess club. The club primarily use is for chess lovers to come a play games against other players or to come and learn how to play. The site is targeted toward people in the Cork area who are close to Crosshaven. The site will be useful for people who want to learn the game and interact with other chess players.
+Crosshaven Chess Society is a site that advertises a fictional chess club. The club primarily use is for chess lovers to come and play games against other players or to come and learn how to play. The site is targeted toward people in the Cork area who are close to Crosshaven. The site will be useful for people who want to learn the game and interact with other chess players.
 
 ![Mockup](documentation/mockup.jpg)
 
@@ -35,8 +35,7 @@ Crosshaven Chess Society is a site that advertises a fictional chess club. The c
   - [404 ERROR](#404-error)
 - [Bugs \& ERRORS](#bugs--errors)
 - [Credits](#credits)
-  - [Content](#content)
-  - [Code](#code)
+  - [Code/Content](#codecontent)
   - [Media](#media)
   - [Acknowledgments](#acknowledgments)
 
@@ -82,13 +81,12 @@ Crosshaven Chess Society is a site that advertises a fictional chess club. The c
 
 ### Class Timetable
 
-  * The Chess Society opening times and what lesson are on are displayed cards on the main page.  These cards give the user more information about when specific classes are on and with open play all level are welcome.
+  * The Chess Society opening times and what lessons are on, are displayed on cards on the main page.  These cards give the user more information about when specific classes are on and with open play all levels are welcome.
 
 ### Footer
 
   * The footer section includes links to the relevant social media sites for the Chess Club. The links will open to a new tab to allow easy navigation for the user.
   * The footer is valuable to the user as it encourages them to keep connected via social media.
-
 
     
 
@@ -104,7 +102,7 @@ Crosshaven Chess Society is a site that advertises a fictional chess club. The c
 
 ### Contact Page
 
-  * The Contact Us panel of the Contact page allows the user to send a message/give feedback to the company and if they want, sign up to the company mailing list to get discount codes and offers.  The user is asked to provide their name and email address when sending a message. By default, the option to join the mailing list is set to 'no' - to prevent them accidentally signing up for the mailing list and getting unwanted email. Sending the message will result in being directed to a page saying that someone will be in contact soon and you will be redirected back to the home page.
+  * The Contact Us panel of the Contact page allows the user to send a message/give feedback to the club. The user is asked to provide their name and email address when sending a message. Sending the message will result in being directed to a page saying that someone will be in contact soon and you will be redirected back to the home page.
 
 ![Contact](documentation/contact-page.jpg)
 
@@ -139,7 +137,7 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
 
 ## Future changes
 * Add images to the back of the flip cards, and have a photo of the solution instead of text. 
-* Add animations for how chess pieces move on a board. 
+* Add animations for how chess pieces move on a board for beginners. 
 
 [Back to contents](#contents)
 
@@ -222,22 +220,19 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
 
 ## Credits
 
-### Content
+### Code/Content
 
 * Content for the pages were inspired by fellow Code Institute students from Ulrike Riemenschneider [Art school Link](https://uriem.github.io/art-school/index.html) for her classes timetable layout and Margarita B [Art school Link](https://uriem.github.io/art-school/index.html) for the Welcome and Chess Benefits sections.
 * Contact page code was inspired by The Coders Coffeeshop page, Ulrike Riemenschneider and Elaine Roche (https://elainebroche-dev.github.io/ms1-thrive/contact.html)
 * Code for 404 error page was inspired by Megan_5P [Northern lights Link](https://modonohoe.github.io/aurora-chasers-ireland/).
 * Code for media screens response was inspired by [Media Queries Link](https://www.w3schools.com/css/css_rwd_mediaqueries.asp), Chris Williams (<https://chr15w1986.github.io/Portfolio-1/index.html>), Ulrike Riemenschneider, Margarita B and Elaine Roche.
 * Code for Disclaimer was inspired by Elaine Roche [Thrive Link](<https://elainebroche-dev.github.io/ms1-thrive/contact.html>)
-
-### Code
-
-* Code on how to create the fade-in of the Crosshaven Chess Society and menu bar came from information on this page : [CSS Image fade-in tutorial](https://blog.hubspot.com/website/css-fade-in)
-* Code on how to create the flip-card effect on the Home page was based on example code on : [W3Schools Flip card tutorial](https://www.w3schools.com/howto/howto_css_flip_card.asp)
-* Contact page code was inspired by The Coders Coffeeshop page, 
-* code on how to create a shadow around the submit button [How to create shadows](<https://www.w3schools.com/cssref/css3_pr_box-shadow.php>)
-* Code on how to include google map with marker was based on code from this site :  [How to embed Google Map](https://www.maps.ie/create-google-map/)
-* Code on how to implement flex boxes was based on instructions from [YouTube Flexbox Tutorial](https://www.youtube.com/watch?v=S0a7PEOi0do)
+* Code on how to create the fade-in of the Crosshaven Chess Society and menu bar came from information on this page : [CSS Image fade-in tutorial](https://blog.hubspot.com/website/css-fade-in).
+* Code on how to create the flip-card effect on the Puzzle page was inspired by Elaine Roche [Thrive Link](<https://elainebroche-dev.github.io/ms1-thrive/contact.html>) and based on example code on : [W3Schools Flip card tutorial](https://www.w3schools.com/howto/howto_css_flip_card.asp).
+* Contact page code was inspired by The Coders Coffeeshop page,
+* code on how to create a shadow around the submit button [How to create shadows](<https://www.w3schools.com/cssref/css3_pr_box-shadow.php>).
+* Code on how to include google map with marker was based on code from this site :  [How to embed Google Map](https://www.maps.ie/create-google-map/).
+* Code on how to implement flex boxes was based on instructions from [YouTube Flexbox Tutorial](https://www.youtube.com/watch?v=S0a7PEOi0do).
 * Favicon code was found at the following site [Link to Favicon site](https://favicon.io/).
 
 ### Media
