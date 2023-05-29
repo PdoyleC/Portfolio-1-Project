@@ -18,7 +18,7 @@ Crosshaven Chess Society is a site that advertises a fictional chess club. The c
   - [Hero Image](#hero-image)
   - [Class Timetable](#class-timetable)
   - [Footer](#footer)
-  - [Puzzle Page](#puzzle-page)
+  - [Puzzle Page\* There is a benefits section to let the user know about how puzzle can improve your game.](#puzzle-page-there-is-a-benefits-section-to-let-the-user-know-about-how-puzzle-can-improve-your-game)
   - [Contact Page](#contact-page)
 - [Design](#design)
   - [Colour Scheme](#colour-scheme)
@@ -26,7 +26,7 @@ Crosshaven Chess Society is a site that advertises a fictional chess club. The c
 - [Future changes](#future-changes)
 - [Wireframes](#wireframes)
   - [Home Page](#home-page)
-  - [Puzzle Page](#puzzle-page-1)
+  - [Puzzle Page](#puzzle-page)
   - [Contact Page](#contact-page-1)
 - [Testing](#testing)
   - [Code Validation](#code-validation)
@@ -70,7 +70,7 @@ Crosshaven Chess Society is a site that advertises a fictional chess club. The c
 * New user wanted to go a learn how to play.
 * Liked the weekly puzzles.
 * Would like to be able to play chess on the website. To be able to do that, the code would need to be written in Python.
-* Would like to be able to buy Chess pieces and Chess boards.
+* Would like to be able to buy chess pieces and chess boards.
 * Some experienced chess players would like to see some of the lesser-known illegal chess moves in the game, displayed on one of the pages.
 * New players would like to see how the pieces move on the board.
 
@@ -79,46 +79,45 @@ Crosshaven Chess Society is a site that advertises a fictional chess club. The c
 
 ### Navigation Bar
 
-  * The navigation bar has a consistent look and placement on all three pages of the website supporting easy navigation.  It includes a simple Logo, Home page, Puzzle, and Contact links and is responsive on multiple screen sizes.
-- The navigation bar was designed to make it easy to read and with contrasting colours that are easy to read.
-  * This section will allow the user to navigate from page to page without having to revert back to the previous page via the ‘back’ button.
+* The navigation bar has a consistent look and placement on all three pages of the website supporting easy navigation.  It includes a simple Logo, Home page, Puzzle, and Contact links and is responsive on multiple screen sizes.
+* The navigation bar was designed to make it easy to read and with contrasting colours that are easy to read.
+* This section will allow the user to navigate from page to page without having to revert back to the previous page via the ‘back’ button.
 
 
       ![Navbar](documentation/nav-bar.jpg)
 
 ### Logo
   
-  * The Logo at the top left corner is clickable, and it redirects the user to the Home page once it is clicked.
+* The Logo at the top left corner is clickable, and it redirects the user to the Home page once it is clicked.
   
 ### Hero Image
 
-- The landing area includes a photograph of chess pieces in black and white to capture the black and white pieces that are used in chess, black and white will be used as a colour through the site to represent this, Green is also used as this is a popular colour for online chess.
+* The landing area includes a photograph of chess pieces in black and white to capture the black and white pieces that are used in chess, black and white will be used as a colour through the site to represent this, Green is also used as this is a popular colour for online chess.
       ![Hero Image](documentation/hero-image.jpg)
 
 ### Class Timetable
 
-  * The Chess Society opening times and what lessons are on, are displayed on cards on the main page.  These cards give the user more information about when specific classes are on and with open play all levels are welcome.
+* The Chess Society opening times and what lessons are on, are displayed on cards on the main page.  These cards give the user more information about when specific classes are on and with open play all levels are welcome.
 
 ### Footer
 
-  * The footer section includes links to the relevant social media sites for the Chess Club. The links will open to a new tab to allow easy navigation for the user.
-  * The footer is valuable to the user as it encourages them to keep connected via social media.
+* The footer section includes links to the relevant social media sites for the chess Club. The links will open to a new tab to allow easy navigation for the user.
+* The footer is valuable to the user as it encourages them to keep connected via social media.
 
     
 
-### Puzzle Page
-  * There is a benefits section to let the user know about how puzzle can improve your game.
-  * The puzzle page is there for club members to test themselves on a weekly basis with new chess problems.
-  * This page will attract users to come back to the site to check for new problems.
-  * There are 4 problems, Beginner - Intermediate - Advanced - GrandMaster, for different user levels.
-  * Advanced and Grandmaster puzzles images, don't have the square identifiers around the edge, as it'll challenge advanced users to learn the layout of a board.
+### Puzzle Page* There is a benefits section to let the user know about how puzzle can improve your game.
+* The puzzle page is there for club members to test themselves on a weekly basis with new chess problems.
+* This page will attract users to come back to the site to check for new problems.
+* There are 4 problems, Beginner - Intermediate - Advanced - GrandMaster, for different user levels.
+* Advanced and Grandmaster puzzles images, don't have the square identifiers around the edge, as it'll challenge advanced users to learn the layout of a board.
 
       ![Hero Image](documentation/puzzle.jpg)
 
 
 ### Contact Page
 
-  * The Contact Us panel of the Contact page allows the user to send a message/give feedback to the club. The user is asked to provide their name and email address when sending a message. Sending the message will result in being directed to a page saying that someone will be in contact soon and you will be redirected back to the home page.
+* The Contact Us panel of the Contact page allows the user to send a message/give feedback to the club. The user is asked to provide their name and email address when sending a message. Sending the message will result in being directed to a page saying that someone will be in contact soon and you will be redirected back to the home page.
 
 ![Contact](documentation/contact-page.jpg)
 
@@ -165,7 +164,7 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
 ![Wireframe Home page](documentation/wire-frame-home.jpg)
 ### Puzzle Page
 
-1. **Puzzle Page** with navigation features in a header, benefits of Chess Puzzles and Chess Puzzles.
+1. **Puzzle Page** with navigation features in a header, and Benefits of Chess Puzzles paragraph and chess puzzles.
 
 ![Wireframe Home Puzzle](documentation/wire-frame-puzzle.jpg)
 
@@ -225,7 +224,7 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
 
 ### 404 ERROR
 
-- After <https://pdoylec.github.io/Portfolio-1-Project/index.html> was entered into the search bar and Crosshaven Chess Society site was opened, the following letters were entered to the end of the search <dfghjklghj>. The 404 ERROR page opened. 
+* After <https://pdoylec.github.io/Portfolio-1-Project/index.html> was entered into the search bar and Crosshaven Chess Society site was opened, the following letters were entered to the end of the search <dfghjklghj>. The 404 ERROR page opened. 
 ![404 ERROR](documentation/404-error-page1.jpg)
 
 
@@ -245,7 +244,7 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
 
 
 ## Unresolved Bugs
-- The fix to the Firefox rotate bug caused another issue, this issue was seen on web browsers Chrome and Edge but not on firefox. In Firefox when the card was flipped there was a contact button where the user could contact the club and this worked in firefox. Unfortunately because of the bug fix in firefox there was an issue with Chrome and Edge. The issue was when the puzzles cards were flipped over, the contact to learn more button wouldn't work. It was decided to remove the contact button as it was preferable to be able to flip the cards over in Firefox rather than not being able to contact the club.
+* The fix to the Firefox rotate bug caused another issue, this issue was seen on web browsers Chrome and Edge but not on firefox. In Firefox when the card was flipped there was a contact button where the user could contact the club and this worked in firefox. Unfortunately because of the bug fix in firefox there was an issue with Chrome and Edge. The issue was when the puzzles cards were flipped over, the contact to learn more button wouldn't work. It was decided to remove the contact button as it was preferable to be able to flip the cards over in Firefox rather than not being able to contact the club.
   
 ![Contact Bug Bug](documentation/contact-bug.jpg)
 
