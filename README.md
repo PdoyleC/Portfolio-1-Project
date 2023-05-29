@@ -11,6 +11,7 @@ Crosshaven Chess Society is a site that advertises a fictional chess club. The c
 - [Project Goals](#project-goals)
   - [...For the user](#for-the-user)
   - [...For the club owner](#for-the-club-owner)
+- [User Feedback](#user-feedback)
 - [Features](#features)
   - [Navigation Bar](#navigation-bar)
   - [Logo](#logo)
@@ -58,6 +59,18 @@ Crosshaven Chess Society is a site that advertises a fictional chess club. The c
 * To show when classes and games are on.
 * To get users to revisit the site for new puzzles.
 * To be contactable for new members.
+
+
+## User Feedback
+* Found the site easy to navigate.
+* Were able to contact the club easily.
+* Liked the images.
+* New user wanted to go a learn how to play.
+* Liked the weekly puzzles.
+* Would like to be able to play chess on the website. To be able to do that, the code would need to be written in Python.
+* Would like to be able to by Chess pieces and Chess boards.
+* Some experienced chess players would like to see some of the lesser known illegal chess moves in the game, displayed on one of the pages.
+* New players would like to see how the pieces move on the board.
 
 
 ## Features
