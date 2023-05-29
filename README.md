@@ -130,7 +130,7 @@ Crosshaven Chess Society is a site that advertises a fictional chess club. The c
 
 * The How to Find Us panel of the Contact page gives the user an interactive google map showing the location of the company along with details on full address, phone number and administration email address in large font to make it easily readable.  By clicking the 'View larger map' link the user can go to the google maps site for the address - this opens in a separate tab to allow ease of navigation.
 
-      ![Find Us](documentation/find-us.jpg)
+![Find Us](documentation/find-us.jpg)
 
 [Back to contents](#contents)
 
