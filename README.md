@@ -245,7 +245,7 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
 
 
 ## Unresolved Bugs
-* The fix to the FireFox rotate bug caused another issue, this issue was seen on web browsers Chrome and Edge but not on firefox. In FireFox when the card was flipped there was a contact button where the user could contact the club and this work in firefox. Unfortunately because of the bug fix in firefox there was an issue with Chrome and Edge. The issue was when the puzzles cards were flipped over, the contact to learn more button wouldn't work. It was decided to remove the contact button as it was preferable to be able to flip the cards over in FireFox rather then not being able to contact the club.
+* The fix to the FireFox rotate bug caused another issue, this issue was seen on web browsers Chrome and Edge but not on firefox. In FireFox when the card was flipped there was a contact button where the user could contact the club and this worked in firefox. Unfortunately because of the bug fix in firefox there was an issue with Chrome and Edge. The issue was when the puzzles cards were flipped over, the contact to learn more button wouldn't work. It was decided to remove the contact button as it was preferable to be able to flip the cards over in FireFox rather then not being able to contact the club.
   
 ![Contact Bug Bug](documentation/contact-bug.jpg)
 
@@ -265,18 +265,19 @@ The live link can be found here - [View the live project here](https://pdoylec.g
 
 ### Code/Content
 
-- Content for the pages were inspired by fellow Code Institute students from Ulrike Riemenschneider [Art school Link](https://uriem.github.io/art-school/index.html) for her classes timetable layout and Margarita B [Sauna Link](https://mags07.github.io/Sauna-Beach-Spa/treatments.html) for the Welcome and Chess Benefits sections.
-* Contact page code was inspired by The Coders Coffeeshop page, Ulrike Riemenschneider and Elaine Roche (https://elainebroche-dev.github.io/ms1-thrive/contact.html)
+* Content for the Home page were inspired by fellow Code Institute students Ulrike Riemenschneider [Art school Link](https://uriem.github.io/art-school/index.html) for her classes timetable layout and Margarita B [Sauna Link](https://mags07.github.io/Sauna-Beach-Spa/treatments.html) for the Welcome and Chess Benefits sections.
+* Contact page code was inspired by The Coders Coffeeshop page, Ulrike Riemenschneider[Art school Link](https://uriem.github.io/art-school/index.html) and Elaine Roche (<https://elainebroche-dev.github.io/ms1-thrive/contact.html>)
 * Code for 404 error page was inspired by Megan_5P [Northern lights Link](https://modonohoe.github.io/aurora-chasers-ireland/).
-* Code for media screens response was inspired by [Media Queries Link](https://www.w3schools.com/css/css_rwd_mediaqueries.asp), Chris Williams (<https://chr15w1986.github.io/Portfolio-1/index.html>), Ulrike Riemenschneider, Margarita B and Elaine Roche.
-* Code for Disclaimer was inspired by Elaine Roche [Thrive Link](<https://elainebroche-dev.github.io/ms1-thrive/contact.html>)
-* Code on how to create the fade-in of the Crosshaven Chess Society and menu bar came from information on this page : [CSS Image fade-in tutorial](https://blog.hubspot.com/website/css-fade-in).
-* Code on how to create the flip-card effect on the Puzzle page was inspired by Elaine Roche [Thrive Link](<https://elainebroche-dev.github.io/ms1-thrive/contact.html>) and based on example code on : [W3Schools Flip card tutorial](https://www.w3schools.com/howto/howto_css_flip_card.asp).
-* Contact page code was inspired by The Coders Coffeeshop page,
-* code on how to create a shadow around the submit button [How to create shadows](<https://www.w3schools.com/cssref/css3_pr_box-shadow.php>).
-* Code on how to include google map with marker was based on code from this site :  [How to embed Google Map](https://www.maps.ie/create-google-map/).
+* Code for media screens response was inspired by [Media Queries Link](https://www.w3schools.com/css/css_rwd_mediaqueries.asp), Chris Williams (<https://chr15w1986.github.io/Portfolio-1/index.html>), Ulrike Riemenschneider[Art school Link](https://uriem.github.io/art-school/index.html), Margarita B [Sauna Link](https://mags07.github.io/Sauna-Beach-Spa/treatments.html) and Elaine Roche[Thrive Link](<https://elainebroche-dev.github.io/ms1-thrive/contact.html>).
 * Code on how to implement flex boxes was based on instructions from [YouTube Flexbox Tutorial](https://www.youtube.com/watch?v=S0a7PEOi0do).
+* Code for Disclaimer was inspired by Elaine Roche [Thrive Link](<https://elainebroche-dev.github.io/ms1-thrive/contact.html>)
+* Code on how to create the flip-card effect on the Puzzle page was inspired by Elaine Roche [Thrive Link](<https://elainebroche-dev.github.io/ms1-thrive/contact.html>) and based on example code on : [W3Schools Flip card tutorial](https://www.w3schools.com/howto/howto_css_flip_card.asp).
+* Code on how to include google map with marker was based on code from this site :  [How to embed Google Map](https://www.maps.ie/create-google-map/).
+- Code for Disclaimer was inspired by Elaine Roche [Thrive Link](<https://elainebroche-dev.github.io/ms1-thrive/contact.html>)
+*Code on how to create the fade-in of the Crosshaven Chess Society and menu bar came from information on this page : [CSS Image fade-in tutorial](https://blog.hubspot.com/website/css-fade-in).
+* Code on how to create a shadow around the submit button [How to create shadows](<https://www.w3schools.com/cssref/css3_pr_box-shadow.php>).
 * Favicon code was found at the following site [Link to Favicon site](https://favicon.io/).
+
 
 ### Media
 
