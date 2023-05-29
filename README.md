@@ -18,7 +18,7 @@ Crosshaven Chess Society is a site that advertises a fictional chess club. The c
   - [Hero Image](#hero-image)
   - [Class Timetable](#class-timetable)
   - [Footer](#footer)
-  - [Puzzle Page\* There is a benefits section to let the user know about how puzzle can improve your game.](#puzzle-page-there-is-a-benefits-section-to-let-the-user-know-about-how-puzzle-can-improve-your-game)
+  - [Puzzle Page](#puzzle-page)
   - [Contact Page](#contact-page)
 - [Design](#design)
   - [Colour Scheme](#colour-scheme)
@@ -26,7 +26,7 @@ Crosshaven Chess Society is a site that advertises a fictional chess club. The c
 - [Future changes](#future-changes)
 - [Wireframes](#wireframes)
   - [Home Page](#home-page)
-  - [Puzzle Page](#puzzle-page)
+  - [Puzzle Page](#puzzle-page-1)
   - [Contact Page](#contact-page-1)
 - [Testing](#testing)
   - [Code Validation](#code-validation)
@@ -106,7 +106,8 @@ Crosshaven Chess Society is a site that advertises a fictional chess club. The c
 
     
 
-### Puzzle Page* There is a benefits section to let the user know about how puzzle can improve your game.
+### Puzzle Page 
+* There is a benefits section to let the user know about how puzzle can improve your game.
 * The puzzle page is there for club members to test themselves on a weekly basis with new chess problems.
 * This page will attract users to come back to the site to check for new problems.
 * There are 4 problems, Beginner - Intermediate - Advanced - GrandMaster, for different user levels.
