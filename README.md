@@ -31,6 +31,7 @@ Crosshaven Chess Society is a site that advertises a fictional chess club. The c
   - [Code Validation](#code-validation)
   - [Lighthouse](#lighthouse)
   - [WAVE](#wave)
+  - [Site Validation](#site-validation)
   - [Inspect](#inspect)
   - [404 ERROR](#404-error)
 - [Bugs \& ERRORS](#bugs--errors)
@@ -189,6 +190,12 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
 * I used WAVE (Web Accessibility Evaluation Tool) in chrome developer tools to test the website accessibility. WAVE is a tool that identifies ways to make a webpage more accessible to people with disabilities. WAVE scans the website for on-page and technical accessibility issues and errors to bring the site in line with recognized accessibility standards, like the Web Content Accessibility Guidelines (WCAG).
 
 ![WAVE Test](documentation/wave.jpg)
+
+
+### Site Validation
+
+![Check-List](documentation/checklist.jpg)
+
 
 
 ### Inspect
