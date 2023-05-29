@@ -14,13 +14,7 @@
     color: #000000;
 }
 
-/* 
-#logob {
-    float: left;
-    font-size: 280%;
-    color: #fcfcfc;
-}
-   */
+
 
 body {
     margin: 0;
@@ -48,12 +42,6 @@ img {
     margin-bottom: 0px;
 }
 
-/*
-#menub {
-    font-size: 110%;
-    letter-spacing: 4px;
-}
-*/
 
 #menu,
 #logo {
@@ -242,7 +230,6 @@ img {
 
 /* Puzzle page */
 /* flex-box structure to handle flip-cards positioning */
-/* https: //www.w3schools.com/howto/tryit.asp?filename=tryhow_css_flip_card */
 #tagline {
     text-align: left;
     margin: 0;
@@ -520,7 +507,7 @@ footer {
     font-weight: 80;
 }
 
-/*---------- STYLING FOR  404 PAGE ----------*/
+/* Styling for the 404 page */
 
 .error {
 

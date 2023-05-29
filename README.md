@@ -36,6 +36,8 @@ Crosshaven Chess Society is a site that advertises a fictional chess club. The c
   - [Inspect](#inspect)
   - [404 ERROR](#404-error)
 - [Bugs \& ERRORS](#bugs--errors)
+- [Unresolved Bugs](#unresolved-bugs)
+- [**Deployment and Development**](#deployment-and-development)
 - [Credits](#credits)
   - [Code/Content](#codecontent)
   - [Media](#media)
@@ -242,11 +244,28 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
 [Back to contents](#contents)
 
 
+## Unresolved Bugs
+* The fix to the FireFox rotate bug caused another issue, this issue was seen on web browsers Chrome and Edge but not on firefox. In FireFox when the card was flipped there was a contact button where the user could contact the club and this work in firefox. Unfortunately because of the bug fix in firefox there was an issue with Chrome and Edge. The issue was when the puzzles cards were flipped over, the contact to learn more button wouldn't work. It was decided to remove the contact button as it was preferable to be able to flip the cards over in FireFox rather then not being able to contact the club.
+  
+![Contact Bug Bug](documentation/contact-bug.jpg)
+
+## **Deployment and Development**
+---
+The site was deployed to GitHub pages using the following steps:
+
+1. In the GitHub repository, navigate to the Settings tab from the horizontal menu at the top of the page.
+2. Click the Settings tab and locate the Pages tab on the left menu which appears.
+3. Once you've selected your branch and root directory, click "Save" to deploy your website. GitHub will generate a URL (usually in the format username.github.io/repository-name).
+4. A message will be displayed to indicate a successful deployment to GitHub pages and provide the live link.
+
+The live link can be found here - [View the live project here](https://pdoylec.github.io/Portfolio-1-Project/index.html).
+
+
 ## Credits
 
 ### Code/Content
 
-* Content for the pages were inspired by fellow Code Institute students from Ulrike Riemenschneider [Art school Link](https://uriem.github.io/art-school/index.html) for her classes timetable layout and Margarita B [Art school Link](https://uriem.github.io/art-school/index.html) for the Welcome and Chess Benefits sections.
+- Content for the pages were inspired by fellow Code Institute students from Ulrike Riemenschneider [Art school Link](https://uriem.github.io/art-school/index.html) for her classes timetable layout and Margarita B [Sauna Link](https://mags07.github.io/Sauna-Beach-Spa/treatments.html) for the Welcome and Chess Benefits sections.
 * Contact page code was inspired by The Coders Coffeeshop page, Ulrike Riemenschneider and Elaine Roche (https://elainebroche-dev.github.io/ms1-thrive/contact.html)
 * Code for 404 error page was inspired by Megan_5P [Northern lights Link](https://modonohoe.github.io/aurora-chasers-ireland/).
 * Code for media screens response was inspired by [Media Queries Link](https://www.w3schools.com/css/css_rwd_mediaqueries.asp), Chris Williams (<https://chr15w1986.github.io/Portfolio-1/index.html>), Ulrike Riemenschneider, Margarita B and Elaine Roche.
