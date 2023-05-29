@@ -204,12 +204,16 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
 - After <https://pdoylec.github.io/Portfolio-1-Project/index.html> was entered into the search bar and Crosshaven Chess Society site was opened, the following letters were entered to the end of the search <dfghjklghj>. The 404 ERROR page opened. 
 ![404 ERROR](documentation/404-error-page1.jpg)
 
+
+
 ## Bugs & ERRORS
 
 * Hero image wasn't shrinking for smaller screen size, tried picture element, also tried using img for desktop and 1 for mobile and using CSS for style with min and max width of the screen size. Using Width Switching worked in the end, where the browser will load the small image at small viewport sizes, the medium image at medium viewport sizes, and the large at large viewport sizes, resources where found at the following site Tuts Plus [link to site](https://webdesign.tutsplus.com/tutorials/quick-tip-how-to-use-html5-picture-for-responsive-images--cms-21015#usingsizestocontrolimagelayout).
+* When the code was ran through the HTML validator, there was when error for "When the `srcset` attribute has any image candidate string with a width descriptor, the `sizes` attribute must also be specified". This issue was resolved by adding `sizes="100vw"` to the HTML code. [Link to site](https://forum.getkirby.com/t/validating-html-error-with-srcset-missing-sizes-attribute/16494).
+![HTML Checker](documentation/html-checker-error.jpg)
+
 * Map was too large when website was opened on a phone. This was resolved in CSS in the Media screens section and changing the `width` and `height` for contact-panel-right.
 * There was a bug in FireFox web browser with the flip cards, the issue was that the front of the card could be seen in reverse when looking at the back of the card. I tried adding `transform: rotateX(0deg)` in FireFox dev tool which resolved the issue in FireFox, but when this was added to Chrome dev tool the card wouldn't flip over. Next I added `backface-visiblity:hidden` to `level1-ideals-container` which resolved the issue in FireFox and didn't effect the cards flipping in Chrome. [Link to FireFox Bug fix](https://stackoverflow.com/questions/9604982/backface-visibility-not-working-properly-in-firefox-works-in-safari).
-
 
 ![Firefox Bug](documentation/firefox-bug.jpg)
 
