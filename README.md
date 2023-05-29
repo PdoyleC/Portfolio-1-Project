@@ -146,7 +146,7 @@ Crosshaven Chess Society is a site that advertises a fictional chess club. The c
 
 The fonts chosen for the website were Anton for headings and Commissioner for the main bodies of text on the website. Each of these were imported using [Google Fonts](https://fonts.google.com/). Sans-serif was chosen as the back-up font - in case these fonts don't load - because of it's clear readability. Font Arvo was used.
 
-![Navbar](documentation/arvo-font.jpg)
+![Arvo Font](documentation/arvo-font.jpg)
 
 
 ## Future changes
