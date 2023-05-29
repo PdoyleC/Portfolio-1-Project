@@ -182,12 +182,12 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
 ### Code Validation
 * HTML
   - No errors, returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
-  - 
+   
  ![HTML validator](documentation/html-validator.jpg)
  
 * CSS
   - No errors, found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
-  - 
+   
  ![CSS validator](documentation/css-validator.jpg)
 
  - In CSS validator, where was a warning for the following `webkit-backface-visibility` is a vendor extension, and this is for Safari browser, as there is a glich in Safari. This issue is addressed in the Bugs section below [Bugs](#bugs)
@@ -195,11 +195,11 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
  ![CSS warning](documentation/css-test.jpg)
 
  ### Lighthouse
- * Lighthouse in chrome developer tool, was used to test the website for:
-  - Performance - how the page performs whilst loading.
-  - Accessibility - how accessible is the site for all users and how can it be improved.
-  - Best practices - how does the site conform to industry best practices.
-  - SEO - search engine optimization. Is the site optimized for search engine result rankings.
+* Lighthouse in chrome developer tool, was used to test the website for:
+* Performance - how the page performs whilst loading.
+* Accessibility - how accessible is the site for all users and how can it be improved.
+* Best practices - how does the site conform to industry best practices.
+* SEO - search engine optimization. Is the site optimized for search engine result rankings.
 
 ![Lighthouse Desktop test](documentation/lighthouse-desktop.jpg)
 ![Lighthouse Mobile test](documentation/lighthouse-mobile.jpg)
