@@ -70,8 +70,8 @@ Crosshaven Chess Society is a site that advertises a fictional chess club. The c
 * New user wanted to go a learn how to play.
 * Liked the weekly puzzles.
 * Would like to be able to play chess on the website. To be able to do that, the code would need to be written in Python.
-* Would like to be able to by Chess pieces and Chess boards.
-* Some experienced chess players would like to see some of the lesser known illegal chess moves in the game, displayed on one of the pages.
+* Would like to be able to buy Chess pieces and Chess boards.
+* Some experienced chess players would like to see some of the lesser-known illegal chess moves in the game, displayed on one of the pages.
 * New players would like to see how the pieces move on the board.
 
 
@@ -92,7 +92,7 @@ Crosshaven Chess Society is a site that advertises a fictional chess club. The c
   
 ### Hero Image
 
-- The landing area includes a photograph of chess piece's in black and white to capture the black and white pieces that are used in chess, black and white will be used as a colour through the site to represent this, Green is also used as this is a popular colour for online chess.
+- The landing area includes a photograph of chess pieces in black and white to capture the black and white pieces that are used in chess, black and white will be used as a colour through the site to represent this, Green is also used as this is a popular colour for online chess.
       ![Hero Image](documentation/hero-image.jpg)
 
 ### Class Timetable
@@ -110,8 +110,8 @@ Crosshaven Chess Society is a site that advertises a fictional chess club. The c
   * There is a benefits section to let the user know about how puzzle can improve your game.
   * The puzzle page is there for club members to test themselves on a weekly basis with new chess problems.
   * This page will attract users to come back to the site to check for new problems.
-  * There is 4 problems, Beginner - Intermediate - Advanced - GrandMaster, for different user levels.
-  * Advanced and GrandMaster puzzles images, don't have the square identifiers around the edge, as it'll challenge advanced users to learn the layout of a board.
+  * There are 4 problems, Beginner - Intermediate - Advanced - GrandMaster, for different user levels.
+  * Advanced and Grandmaster puzzles images, don't have the square identifiers around the edge, as it'll challenge advanced users to learn the layout of a board.
 
       ![Hero Image](documentation/puzzle.jpg)
 
@@ -141,12 +141,12 @@ Crosshaven Chess Society is a site that advertises a fictional chess club. The c
 
 ### Colour Scheme
 
-[Colormind.io](http://colormind.io/) was used to generate the colorscheme for this website.
+[Colormind.io](http://colormind.io/) was used to generate the color scheme for this website.
  ![Navbar](documentation/color-pal.jpg)
 
 ### Fonts
 
-The fonts chosen for the website were Anton for headings and Commissioner for the main bodies of text on the website. Each of these were imported using [Google Fonts](https://fonts.google.com/). Sans-serif was chosen as the back-up font - in case these fonts don't load - because of it's clear readability. Font Arvo was used.
+The fonts chosen for the website were Anton for headings and Commissioner for the main bodies of text on the website. Each of these were imported using [Google Fonts](https://fonts.google.com/). Sans-serif was chosen as the back-up font - in case these fonts don't load - because of its clear readability. Font Arvo was used.
 
 ![Arvo Font](documentation/arvo-font.jpg)
 
@@ -190,7 +190,7 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
    
  ![CSS validator](documentation/css-validator.jpg)
 
- - In CSS validator, where was a warning for the following `webkit-backface-visibility` is a vendor extension, and this is for Safari browser, as there is a glich in Safari. This issue is addressed in the Bugs section below [Bugs](#bugs)
+ - In CSS validator, where was a warning for the following `webkit-backface-visibility` is a vendor extension, and this is for Safari browser, as there is a glitch in Safari. This issue is addressed in the Bugs section below [Bugs](#bugs)
  
  ![CSS warning](documentation/css-test.jpg)
 
@@ -233,11 +233,11 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
 ## Bugs & ERRORS
 
 * Hero image wasn't shrinking for smaller screen size, tried picture element, also tried using img for desktop and 1 for mobile and using CSS for style with min and max width of the screen size. Using Width Switching worked in the end, where the browser will load the small image at small viewport sizes, the medium image at medium viewport sizes, and the large at large viewport sizes, resources where found at the following site Tuts Plus [link to site](https://webdesign.tutsplus.com/tutorials/quick-tip-how-to-use-html5-picture-for-responsive-images--cms-21015#usingsizestocontrolimagelayout).
-* When the code was ran through the HTML validator, there was when error for "When the `srcset` attribute has any image candidate string with a width descriptor, the `sizes` attribute must also be specified". This issue was resolved by adding `sizes="100vw"` to the HTML code. [Link to site](https://forum.getkirby.com/t/validating-html-error-with-srcset-missing-sizes-attribute/16494).
+* When the code was run through the HTML validator, there was when error for "When the `srcset` attribute has any image candidate string with a width descriptor, the `sizes` attribute must also be specified". This issue was resolved by adding `sizes="100vw"` to the HTML code. [Link to site](https://forum.getkirby.com/t/validating-html-error-with-srcset-missing-sizes-attribute/16494).
 ![HTML Checker](documentation/html-checker-error.jpg)
 
 * Map was too large when website was opened on a phone. This was resolved in CSS in the Media screens section and changing the `width` and `height` for contact-panel-right.
-* There was a bug in FireFox web browser with the flip cards, the issue was that the front of the card could be seen in reverse when looking at the back of the card. I tried adding `transform: rotateX(0deg)` in FireFox dev tool which resolved the issue in FireFox, but when this was added to Chrome dev tool the card wouldn't flip over. Next I added `backface-visiblity:hidden` to `level1-ideals-container` which resolved the issue in FireFox and didn't effect the cards flipping in Chrome. [Link to FireFox Bug fix](https://stackoverflow.com/questions/9604982/backface-visibility-not-working-properly-in-firefox-works-in-safari).
+* There was a bug in Firefox web browser with the flip cards, the issue was that the front of the card could be seen in reverse when looking at the back of the card. I tried adding `transform: rotateX(0deg)` in Firefox dev tool which resolved the issue in Firefox, but when this was added to Chrome dev tool the card wouldn't flip over. Next I added `backface-visiblity:hidden` to `level1-ideals-container` which resolved the issue in Firefox and didn't effect the cards flipping in Chrome. [Link to FireFox Bug fix](https://stackoverflow.com/questions/9604982/backface-visibility-not-working-properly-in-firefox-works-in-safari).
 
 ![Firefox Bug](documentation/firefox-bug.jpg)
 
@@ -245,7 +245,7 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
 
 
 ## Unresolved Bugs
-* The fix to the FireFox rotate bug caused another issue, this issue was seen on web browsers Chrome and Edge but not on firefox. In FireFox when the card was flipped there was a contact button where the user could contact the club and this worked in firefox. Unfortunately because of the bug fix in firefox there was an issue with Chrome and Edge. The issue was when the puzzles cards were flipped over, the contact to learn more button wouldn't work. It was decided to remove the contact button as it was preferable to be able to flip the cards over in FireFox rather then not being able to contact the club.
+- The fix to the Firefox rotate bug caused another issue, this issue was seen on web browsers Chrome and Edge but not on firefox. In Firefox when the card was flipped there was a contact button where the user could contact the club and this worked in firefox. Unfortunately because of the bug fix in firefox there was an issue with Chrome and Edge. The issue was when the puzzles cards were flipped over, the contact to learn more button wouldn't work. It was decided to remove the contact button as it was preferable to be able to flip the cards over in Firefox rather than not being able to contact the club.
   
 ![Contact Bug Bug](documentation/contact-bug.jpg)
 
