@@ -581,7 +581,7 @@ footer {
     #about-us {
         display: flex;
         flex-flow: row wrap;
-        width: 100%auto;
+        width: auto;
         height: 52.25rem;
         padding: 2rem 2rem;
     }

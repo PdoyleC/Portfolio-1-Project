@@ -188,6 +188,10 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
   - 
  ![CSS validator](documentation/css-validator.jpg)
 
+ - In CSS validator, where was a warning for the following `webkit-backface-visibility` is a vendor extension, and this is for Safari browser, as there is a glich in Safari. This issue is addressed in the Bugs section below [Bugs](#bugs)
+ 
+ ![CSS warning](documentation/css-test.jpg)
+
  ### Lighthouse
  * Lighthouse in chrome developer tool, was used to test the website for:
   - Performance - how the page performs whilst loading.
