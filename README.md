@@ -273,8 +273,8 @@ The live link can be found here - [View the live project here](https://pdoylec.g
 * Code for Disclaimer was inspired by Elaine Roche [Thrive Link](<https://elainebroche-dev.github.io/ms1-thrive/contact.html>)
 * Code on how to create the flip-card effect on the Puzzle page was inspired by Elaine Roche [Thrive Link](<https://elainebroche-dev.github.io/ms1-thrive/contact.html>) and based on example code on : [W3Schools Flip card tutorial](https://www.w3schools.com/howto/howto_css_flip_card.asp).
 * Code on how to include google map with marker was based on code from this site :  [How to embed Google Map](https://www.maps.ie/create-google-map/).
-- Code for Disclaimer was inspired by Elaine Roche [Thrive Link](<https://elainebroche-dev.github.io/ms1-thrive/contact.html>)
-*Code on how to create the fade-in of the Crosshaven Chess Society and menu bar came from information on this page : [CSS Image fade-in tutorial](https://blog.hubspot.com/website/css-fade-in).
+* Code for Disclaimer was inspired by Elaine Roche [Thrive Link](<https://elainebroche-dev.github.io/ms1-thrive/contact.html>)
+* Code on how to create the fade-in of the Crosshaven Chess Society and menu bar came from information on this page : [CSS Image fade-in tutorial](https://blog.hubspot.com/website/css-fade-in).
 * Code on how to create a shadow around the submit button [How to create shadows](<https://www.w3schools.com/cssref/css3_pr_box-shadow.php>).
 * Favicon code was found at the following site [Link to Favicon site](https://favicon.io/).
 
