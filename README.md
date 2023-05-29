@@ -37,7 +37,7 @@ Crosshaven Chess Society is a site that advertises a fictional chess club. The c
   - [404 ERROR](#404-error)
 - [Bugs \& ERRORS](#bugs--errors)
 - [Unresolved Bugs](#unresolved-bugs)
-- [**Deployment and Development**](#deployment-and-development)
+- [Deployment and Development](#deployment-and-development)
 - [Credits](#credits)
   - [Code/Content](#codecontent)
   - [Media](#media)
@@ -250,7 +250,7 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
 ![Contact Bug Bug](documentation/contact-bug.jpg)
 
 ## Deployment and Development
----
+
 The site was deployed to GitHub pages using the following steps:
 
 1. In the GitHub repository, navigate to the Settings tab from the horizontal menu at the top of the page.
