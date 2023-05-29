@@ -83,8 +83,7 @@ Crosshaven Chess Society is a site that advertises a fictional chess club. The c
 * The navigation bar was designed to make it easy to read and with contrasting colours that are easy to read.
 * This section will allow the user to navigate from page to page without having to revert back to the previous page via the ‘back’ button.
 
-
-      ![Navbar](documentation/nav-bar.jpg)
+![Navbar](documentation/nav-bar.jpg)
 
 ### Logo
   
@@ -93,7 +92,7 @@ Crosshaven Chess Society is a site that advertises a fictional chess club. The c
 ### Hero Image
 
 * The landing area includes a photograph of chess pieces in black and white to capture the black and white pieces that are used in chess, black and white will be used as a colour through the site to represent this, Green is also used as this is a popular colour for online chess.
-      ![Hero Image](documentation/hero-image.jpg)
+![Hero Image](documentation/hero-image.jpg)
 
 ### Class Timetable
 
@@ -113,7 +112,7 @@ Crosshaven Chess Society is a site that advertises a fictional chess club. The c
 * There are 4 problems, Beginner - Intermediate - Advanced - GrandMaster, for different user levels.
 * Advanced and Grandmaster puzzles images, don't have the square identifiers around the edge, as it'll challenge advanced users to learn the layout of a board.
 
-      ![Hero Image](documentation/puzzle.jpg)
+![Hero Image](documentation/puzzle.jpg)
 
 
 ### Contact Page
@@ -142,7 +141,7 @@ Crosshaven Chess Society is a site that advertises a fictional chess club. The c
 ### Colour Scheme
 
 [Colormind.io](http://colormind.io/) was used to generate the color scheme for this website.
- ![Navbar](documentation/color-pal.jpg)
+![Navbar](documentation/color-pal.jpg)
 
 ### Fonts
 
@@ -225,7 +224,7 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
 
 ### 404 ERROR
 
-* After <https://pdoylec.github.io/Portfolio-1-Project/index.html> was entered into the search bar and Crosshaven Chess Society site was opened, the following letters were entered to the end of the search <dfghjklghj>. The 404 ERROR page opened. 
+* After <https://pdoylec.github.io/Portfolio-1-Project/index.html> was entered into the search bar and Crosshaven Chess Society site was opened, the following letters were entered to the end of the search dfghjklghj. The 404 ERROR page opened. 
 ![404 ERROR](documentation/404-error-page1.jpg)
 
 
