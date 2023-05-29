@@ -193,7 +193,7 @@ The fonts chosen for the website were Anton for headings and Commissioner for th
 
 
 ### Site Validation
-
+* Each page of the site was tested, contact links, social media, flip cards, Nav bar on each page. checklist is below.
 ![Check-List](documentation/checklist.jpg)
 
 
